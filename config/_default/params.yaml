@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: 'ICOPS'
-    description: 'International Committee on Open Phytolith Science - Community building and training initiative for the Phytolith Community.'
+    org_name: 'Open Phytoliths'
+    description: 'Open Phytoliths - Community building and training initiative for the Phytolith Community.'
     twitter: 'https://twitter.com/open_phytoliths'
   analytics:
     google_analytics: ''

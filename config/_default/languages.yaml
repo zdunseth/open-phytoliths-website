@@ -1,0 +1,41 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://wowchemy.com/docs/guide/language/
+
+# Default language
+en:
+  languageCode: en-us
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir: content/en
+  title: ICOPS
+  weight: 1
+  params:
+    description: International Committee on Open Phytolith Science - Community building and training initiative for the Phytolith Community
+fr:
+  languageCode: fr
+  contentDir: content/fr
+  title: ICOPS
+  params:
+    description: Comité international sur la science ouverte dans le phytolithe - Initiative de renforcement de la communauté et de formation pour la communauté Phytolith
+es:
+  languageCode: es
+  weight: 3
+  contentDir: content/es
+  title: ICOPS
+  params:
+    description: Comité Internacional de Ciencia Abierta en Fitolitos - Iniciativa de construcción comunitaria y capacitación para la comunidad Phytolith
+
+# Uncomment the lines below to configure your website in a second language.
+#zh:
+#  languageCode: zh-Hans
+#  contentDir: content/zh
+#  title: Chinese website title...
+#  params:
+#    description: Site description in Chinese...
+#  menu:
+#    main:
+#      - name: 传
+#        url: '#about'
+#        weight: 1
+
+

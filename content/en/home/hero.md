@@ -12,7 +12,7 @@ design:
     text_color_light: false
 cta:
   url: '#courses'
-  label: Explore our resources
+  label: Explore our projects
   icon_pack: fas
   icon: user-graduate
 cta_alt:

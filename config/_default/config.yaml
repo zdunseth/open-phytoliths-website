@@ -29,17 +29,17 @@ languages:
   en:
     contentDir: content/en
     languageName: English
-    title: ICOPS
+    title: Open Phytoliths
     weight: 1
   fr:
     contentDir: content/fr
     languageName: Français
-    title: ICOPS
+    title: Open Phytoliths
     weight: 2
   es:
     contentDir: content/es
     languageName: Español
-    title: ICOPS
+    title: Open phytoliths
     weight: 3
 
 ############################

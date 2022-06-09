@@ -1,5 +1,5 @@
 ---
-title: Ready to learn?
+title: More resources
 subtitle:
 widget: blank
 weight: 50

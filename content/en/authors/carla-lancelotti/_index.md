@@ -46,10 +46,10 @@ social:
     link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/cl379
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/cl379
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

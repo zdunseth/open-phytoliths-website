@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: International Committee on Open Phytolith Science
+title: Open Phytoliths
 hero_media: icops-logo.jpg
 design:
   background:

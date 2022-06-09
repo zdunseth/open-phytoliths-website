@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Open Phytoliths
+title: Open Phytoliths Community
 hero_media: icops-logo.jpg
 design:
   background:

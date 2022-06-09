@@ -14,13 +14,12 @@ subtitle:
 
 content:
   # Contact (edit or remove options as required)
-  email: test@example.org
-  appointment_url: 'https://calendly.com'
+  email: open.phytoliths@gmail.com
   contact_links:
     - icon: comments
       icon_pack: fas
-      name: Discuss on the forum
-      link: 'https://github.com/wowchemy/wowchemy-hugo-themes/discussions'
+      name: Join our slack workspace
+      link: 'https://join.slack.com/t/openphytoliths/shared_invite/zt-1akxgco84-cz4Dii0Q5gXeb9J49UgYoQ'
 
   # Automatically link email and phone or display as text?
   autolink: true
@@ -38,4 +37,4 @@ design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+If you have any comments, feedback or just want to connect with us, please fill in the form above. 

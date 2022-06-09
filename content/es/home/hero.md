@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Comité Internacional de Ciencia Abierta en Fitolitos
-hero_media: teacher.png
+hero_media: icops-logo.jpg
 design:
   background:
     gradient_angle: 0
@@ -28,4 +28,4 @@ advanced:
 
 Construir una visión compartida para la investigación abierta en fitolitos a través de la formación y la formación de comunidades.
 
-<a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+<a class="github-button" href="https://github.com/open-phytoliths" data-icon="octicon-star" data-size="large" aria-label="Visit our GitHub organisation page">Visite nuestra página de organización de GitHub</a><br><a class="github-button" href="https://twitter.com/open_phytoliths" data-icon="octicon-star" data-size="large" aria-label="Follow us on Twitter">Síganos en Twitter</a><script async defer src="https://buttons.github.io/buttons.js"></script>

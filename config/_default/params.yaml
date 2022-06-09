@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
+    org_name: 'ICOPS'
     description: 'International Committee on Open Phytolith Science - Community building and training initiative for the Phytolith Community.'
-    twitter: ''
+    twitter: 'open_phytoliths'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -54,7 +54,7 @@ footer:
 
 locale:
   date_format: 'Jun 8, 2022'
-  time_format: '3:04 PM'
+  time_format: '8:04 PM'
 
 # Site features
 
@@ -69,7 +69,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/malvikasharan/hugo-page-test'
+    url: 'https://github.com/open-phytoliths/open-phytoliths-website'
     content_dir: content
     branch: main
   comment:
@@ -80,7 +80,7 @@ features:
     commento:
       url: ''
   search:
-    provider: wowchemy
+    provider: ICOPS
     algolia:
       app_id: ''
       api_key: ''

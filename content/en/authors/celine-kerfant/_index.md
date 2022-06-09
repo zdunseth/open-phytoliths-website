@@ -1,40 +1,39 @@
 ---
 # Display name
-title: 吳恩達
+title: Celine Kerfant
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - celine-kerfant
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: R Instructor
+role: ICOPS member
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: UPF
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include phytoliths and open science.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Open Research
+  - Phytoliths
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in 
+      institution:  University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: MEng in 
+      institution: University
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BSc in
+      institution: University
       year: 2008
 
 # Social/Academic Networking

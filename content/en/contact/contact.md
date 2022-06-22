@@ -12,7 +12,16 @@ weight: 10
 title: Contact
 subtitle:
 
+# Email form provider
 content:
+  form:
+    provider: formspree
+    formspree:
+      id: https://formspree.io/f/myyoawwj
+
+ # Enable CAPTCHA challenge to reduce spam?
+      captcha: true
+
   # Contact (edit or remove options as required)
   email: open.phytoliths@gmail.com
   contact_links:
@@ -24,15 +33,7 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
 
-  # Email form provider
-  form:
-    provider: formspree
-    formspree:
-      id: https://formspree.io/f/myyoawwj
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-
+ 
 design:
   columns: '1'
 ---

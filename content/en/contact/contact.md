@@ -14,12 +14,6 @@ subtitle:
 
 # Email form provider
 
-  form:
-    provider: formspree
-    formspree:
-      id: https://formspree.io/f/myyoawwj
-       captcha: true
-
   # Contact (edit or remove options as required)
   email: 
   contact_links:
@@ -27,6 +21,14 @@ subtitle:
       icon_pack: fas
       name: Join our slack workspace
       link: 'https://join.slack.com/t/openphytoliths/shared_invite/zt-1akxgco84-cz4Dii0Q5gXeb9J49UgYoQ'
+
+# Email form provider
+  form:
+    provider: formspree
+    formspree:
+      id: https://formspree.io/f/myyoawwj
+       captcha: true
+
 
   # Automatically link email and phone or display as text?
   autolink: true

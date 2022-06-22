@@ -13,7 +13,7 @@ title: Contact
 subtitle:
 
 # Email form provider
-content:
+
   form:
     provider: formspree
     formspree:

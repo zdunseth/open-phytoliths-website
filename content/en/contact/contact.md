@@ -13,7 +13,6 @@ title: Contact
 subtitle:
 
 content:
-
   # Contact (edit or remove options as required)
   email: 
   contact_links:
@@ -30,7 +29,9 @@ content:
     provider: formspree
     formspree:
       id: https://formspree.io/f/myyoawwj
-       captcha: true
+    netlify:
+      # Enable CAPTCHA challenge to reduce spam?
+      captcha: false
  
 design:
   columns: '1'

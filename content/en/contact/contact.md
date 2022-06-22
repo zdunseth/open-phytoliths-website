@@ -12,8 +12,6 @@ weight: 10
 title: Contact
 subtitle:
 
-# Email form provider
-
   # Contact (edit or remove options as required)
   email: 
   contact_links:
@@ -22,17 +20,15 @@ subtitle:
       name: Join our slack workspace
       link: 'https://join.slack.com/t/openphytoliths/shared_invite/zt-1akxgco84-cz4Dii0Q5gXeb9J49UgYoQ'
 
-# Email form provider
+  # Automatically link email and phone or display as text?
+  autolink: true
+
+  # Email form provider
   form:
     provider: formspree
     formspree:
       id: https://formspree.io/f/myyoawwj
        captcha: true
-
-
-  # Automatically link email and phone or display as text?
-  autolink: true
-
  
 design:
   columns: '1'

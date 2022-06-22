@@ -18,12 +18,10 @@ content:
     provider: formspree
     formspree:
       id: https://formspree.io/f/myyoawwj
-
- # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+       captcha: true
 
   # Contact (edit or remove options as required)
-  email: open.phytoliths@gmail.com
+  email: 
   contact_links:
     - icon: comments
       icon_pack: fas

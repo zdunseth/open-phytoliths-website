@@ -12,6 +12,8 @@ weight: 10
 title: Contact
 subtitle:
 
+content:
+
   # Contact (edit or remove options as required)
   email: 
   contact_links:

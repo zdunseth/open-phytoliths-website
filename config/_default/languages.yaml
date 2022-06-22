@@ -7,7 +7,7 @@ en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
-  title: Open Phytoliths
+  title: Open Phytoliths Community
   weight: 1
   params:
     description: Open Phytoliths Community - Building a shared vision for open science adoption and implementation among phytolith researchers globally.

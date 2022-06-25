@@ -14,7 +14,7 @@ tags:
 
 ## What you will learn
 
-- Basic {{<hl>}}Github{{</hl>}}
+- {{<hl>}}Github Basics{{</hl>}}
 - {{<hl>}}Collaboration{{</hl>}} with Github
 - {{<hl>}}Further uses{{</hl>}} of Github 
 

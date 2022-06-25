@@ -3,7 +3,7 @@ widget: featurette
 headless: true
 weight: 20
 title: About Open Phytoliths Community
-subtitle: Learn about our community
+subtitle: 
 feature:
   - icon: chalkboard-teacher
     icon_pack: fas

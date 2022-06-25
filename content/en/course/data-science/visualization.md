@@ -1,11 +1,9 @@
 ---
-title: Visualization
+title: Collaboration with Github
 date: '2021-01-01'
 type: book
 weight: 30
 highlight: true
-tags:
-  - Data Visualization
 ---
 
 Learn how to visualize data with Plotly.
@@ -32,5 +30,5 @@ data_canada = px.data.gapminder().query("country == 'Canada'")
 fig = px.bar(data_canada, x='year', y='pop')
 fig.show()
 ```
-
 {{< /spoiler >}}
+

@@ -13,6 +13,7 @@ en:
     description: International Committee on Open Phytolith Science - Community building and training initiative for the Phytolith Community.
 fr:
   languageCode: fr
+  weight: 2
   contentDir: content/fr
   title: ICOPS
   params:

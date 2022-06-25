@@ -89,7 +89,7 @@ education:
     - course: MSc in Palaeoecology
       institution: University College London
       year: 2002
-    - course: BSc in Biarchaeology
+    - course: BSc in Bioarchaeology
       institution: University of Bradford
       year: 2001
 
@@ -120,4 +120,10 @@ user_groups:
   - Teachers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Emma is a specialist in Archaeobotany with a PhD from the Institute of Archaeology, University College London, and she is the Principal Investigator on the FAIR Phytolith Project based at Historic England working with colleagues from Universitat Pompeu Fabra. the Spanish National Research Council and Texas A&M University, funded by EOSC Life. She is also involved in a project to develop the use of phytolith research in British archaeology by developing a comprehensive and open reference collection. Emma writes a blog called The Open Archaeobotanist and regularly gives talks about her open archaeological work.
+
+Emma also works as a Senior Community Manager for the Turing RSS Health Data Lab and the DECOVID project at The Alan Turing Institute. She is a core contributor to *The Turing Way* (an open-source community-led guide to reproducible research), and a member of the Bookdash planning committee, helping to build resources and training for other researchers. 
+
+Emma is a Software Sustainability Institute Fellow focusing on promoting a more accessible and inclusive research culture. She is also working with Elixir-UK as a FAIR Data Stewardship Training Fellow to develop training resources for FAIR data management.  Emma works closely with the Open Life Science Programme as a mentor and expert. 
+
+All of her research and community building embraces an Open Scholarship approach in which she is striving to develop more open and sustainable research practices within her discipline and beyond.

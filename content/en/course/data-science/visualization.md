@@ -5,7 +5,7 @@ type: book
 weight: 30
 highlight: true
 tags:
-  - Collaboration with Github
+  - current
 ---
 
 You will learn how to work with a collaborative workflow using Github including version control, forking, branching and pull requests.

@@ -1,35 +1,27 @@
 ---
-title: Statistics
+title: Further uses with Github
 date: '2021-01-01'
 type: book
 weight: 40
 math: true
 tags:
-  - Statistics
+  - Github pages
 ---
 
-Introduction to statistics for data science.
+This course covers how to enable and edit repositories for web pages. To know how to link long-term repositories (Zenodo and Open Science Framework) to Github. And also how to use project management boards in Github.
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
+{{< icon name="clock" pack="fas" >}} 2 hours 
 
 ## Learn
 
-The general form of the **normal** probability density function is:
+{{< youtube pU7UlAip4oo >}}
 
-$$
-f(x) = \frac{1}{\sigma \sqrt{2\pi} } e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}
-$$
+{{< youtube 9RVFFg4A9gY >}}
 
-{{< callout note >}}
-The parameter $\mu$ is the mean or expectation of the distribution.
-$\sigma$ is its standard deviation.
-The variance of the distribution is $\sigma^{2}$.
-{{< /callout >}}
+{{< youtube tbB9NGKSdZ4 >}}
 
 ## Quiz
 
-{{< spoiler text="What is the parameter $\mu$?" >}}
-The parameter $\mu$ is the mean or expectation of the distribution.
-{{< /spoiler >}}
+

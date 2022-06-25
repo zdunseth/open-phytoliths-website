@@ -5,7 +5,7 @@ type: book
 weight: 20
 ---
 
-Get familiar the Github web browser interface, make a new repository and add files and folders.
+Get familiar with the Github web browser interface, make a new repository and add files and folders.
 
 <!--more-->
 

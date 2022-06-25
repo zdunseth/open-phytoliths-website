@@ -120,7 +120,7 @@ user_groups:
   - Teachers
 ---
 
-Emma is a specialist in Archaeobotany with a PhD from the Institute of Archaeology, University College London, and she is the Principal Investigator on the FAIR Phytolith Project based at Historic England working with colleagues from Universitat Pompeu Fabra. the Spanish National Research Council and Texas A&M University, funded by EOSC Life. She is also involved in a project to develop the use of phytolith research in British archaeology by developing a comprehensive and open reference collection. Emma writes a blog called The Open Archaeobotanist and regularly gives talks about her open archaeological work.
+Emma is a specialist in Archaeobotany with a PhD from the Institute of Archaeology, University College London, and she is the Principal Investigator on the FAIR Phytoliths Project based at Historic England working with colleagues from Universitat Pompeu Fabra. the Spanish National Research Council and Texas A&M University, funded by EOSC Life. She is also involved in a project to develop the use of phytolith research in British archaeology by developing a comprehensive and open reference collection. Emma writes a blog called The Open Archaeobotanist and regularly gives talks about her open archaeological work.
 
 Emma also works as a Senior Community Manager for the Turing RSS Health Data Lab and the DECOVID project at The Alan Turing Institute. She is a core contributor to *The Turing Way* (an open-source community-led guide to reproducible research), and a member of the Bookdash planning committee, helping to build resources and training for other researchers. 
 

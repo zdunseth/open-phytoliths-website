@@ -1,6 +1,7 @@
 ---
 title: First Meeting of the International Committee on Open Phytolith Science
 date: 2021-12-03
+thumbnail-img: meeting1.jpg
 ---
 
 

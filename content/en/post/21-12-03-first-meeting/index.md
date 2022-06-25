@@ -8,6 +8,8 @@ date: 2021-12-03
 
 <!--more-->
 
+![first meeting photo](meeting1.jpg "Our first ICOPS meeting")
+
 The International Committee on Open Phytolith Science (ICOPS) has been created within the International Phytolith Society to work on increasing the knowledge of and implementation of open science practices in phytolith research. 
 
 The first committee meeting took place on 3rd December 2021. We have 11 committee members who come from all over the world. 

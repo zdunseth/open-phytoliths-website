@@ -4,11 +4,8 @@ date: '2021-01-01'
 type: book
 weight: 30
 highlight: true
-<<<<<<< HEAD
-=======
 tags:
   - Data Visualization
->>>>>>> parent of b802799 (adding collab with github content)
 ---
 
 Learn how to visualize data with Plotly.
@@ -19,16 +16,7 @@ Learn how to visualize data with Plotly.
 
 ## Learn
 
-<<<<<<< HEAD
 {{< youtube QFNts5RJ0sM&t  >}}
-
-
-## Quiz
-
-
-
-=======
-{{< youtube hSPmj7mK6ng >}}
 
 ## Quiz
 
@@ -46,4 +34,4 @@ fig.show()
 ```
 
 {{< /spoiler >}}
->>>>>>> parent of b802799 (adding collab with github content)
+

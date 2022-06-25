@@ -18,13 +18,6 @@ You will learn how to work with a collaborative workflow using Github including 
 
 {{< youtube QFNts5RJ0sM&t  >}}
 
-{{< youtube EjUMKh-pE3A&t  >}}
-
-{{< youtube gJXVxrtvTLU&t  >}}
-
-{{< youtube RgfN5QqFxxg&t  >}}
-
-{{< youtube BaxgtJYkE98&t >}}
 
 ## Quiz
 

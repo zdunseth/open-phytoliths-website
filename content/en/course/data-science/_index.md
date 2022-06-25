@@ -1,7 +1,7 @@
 ---
 title: 📊 Learn Github
 linkTitle: Github
-summary: Our first set of training courses for the phytolith community happened in three sessions in Spring 2022. Here are all of the material for these three sessions, so that you can work through them at your own pace. 
+summary: Our first set of training courses for the phytolith community happened in three sessions in Spring 2022. Here are all of the materials for these three sessions, so that you can work through them at your own pace. 
 date: '2021-01-24'
 type: book
 tags:

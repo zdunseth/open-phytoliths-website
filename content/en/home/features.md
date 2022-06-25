@@ -8,13 +8,13 @@ feature:
   - icon: chalkboard-teacher
     icon_pack: fas
     name: ICOPS
-    description: The International Committee on Open Phytolith Science (ICOPS) has been created within the International Phytolith Society to work on increasing the knowledge of and implementation of open science practices in phytolith research. 
+    description: The International Committee on Open Phytolith Science (ICOPS) has been created within the [International Phytolith Society](https://phytoliths.org/) to work on increasing the knowledge of and implementation of open science practices in phytolith research. 
   - icon: video
     icon_pack: fas
-    name: Our Community
-    description:
+    name: Our Mission
+    description: 
   - icon: code
     icon_pack: fas
-    name: Our mission
-    description:
+    name: Our Community
+    description: 
 ---

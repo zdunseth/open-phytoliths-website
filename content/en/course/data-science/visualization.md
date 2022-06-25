@@ -5,35 +5,32 @@ type: book
 weight: 30
 highlight: true
 tags:
-  - Collaboration
+  - Data Visualization
 ---
 
-You will learn how to work with a collaborative workflow using Github including version control, forking, branching and pull requests.
+Learn how to visualize data with Plotly.
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}}2 hours 
+{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
 
 ## Learn
 
-{{< youtube QFNts5RJ0sM&t  >}}
-
-{{< youtube EjUMKh-pE3A&t  >}}
-
-{{< youtube gJXVxrtvTLU&t  >}}
-
-{{< youtube RgfN5QqFxxg&t  >}}
-
-{{< youtube BaxgtJYkE98&t >}}
-
+{{< youtube hSPmj7mK6ng >}}
 
 ## Quiz
 
-{{< spoiler text="What is version control?" >}}
-* The management of changes, called revisions, to a file.
+{{< spoiler text="When is a heatmap useful?" >}}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 {{< /spoiler >}}
 
-{{< spoiler text="How is working in a fork different from working in a branch?" >}}
-* A fork is a copy of a repository that is an entirely independent repo. There is no need for write access or intent to merge with the main.
-* A branch points to a specific commit in your repo. Branches are temporary places to work through a featureor task and you need write access to the repository. 
+{{< spoiler text="Write Plotly code to render a bar chart" >}}
+
+```python
+import plotly.express as px
+data_canada = px.data.gapminder().query("country == 'Canada'")
+fig = px.bar(data_canada, x='year', y='pop')
+fig.show()
+```
+
 {{< /spoiler >}}

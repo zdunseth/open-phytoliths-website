@@ -15,7 +15,7 @@ role: ICOPS member, Assistant Professor of Archaeological Science
 # Organizations/Affiliations
 organizations:
   - name: Department of Archaeology and Art History, College of Humanities, Seoul National University 
-    url: 'https://humanities.snu.ac.kr/en/faculty?deptidx=12&md=view&profidx=199'
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

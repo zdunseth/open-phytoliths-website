@@ -20,7 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-
 interests:
   - Open Research
   - Phytoliths
@@ -65,7 +64,4 @@ email: ''
 user_groups:
   - Teachers
 ---
-
-Jennifer Bates is Assistant Professor of Archaeological Science at the Department of Archaeology and Art History, Seoul National University, Korea. She works on archaeobotany, specialising in South Asian pre and proto history, and her labs, SNU Archaeological Science Lab and SNU Archaeobotany Lab, are open for analysis across a range of materials. 
-
-Jennifer has several projects at present; she is currently investigating how the ashmounds of the Southern Indian Neolithic were formed, is looking at foodways in several pre- and proto-historic regions of South Asia, exploring the complex pathways of early rice use in the Ganges, and is one of the co-ordinators of the Big Data project Land Cover 6k, with a special focus on South Asia and Korea. 
+Jennifer Bates is Assistant Professor of Archaeological Science at the Department of Archaeology and Art History, Seoul National University, Korea. She works on archaeobotany, specialising in South Asian pre and proto history, and her labs, SNU Archaeological Science Lab and SNU Archaeobotany Lab, are open for analysis across a range of materials. Jennifer has several projects at present; she is currently investigating how the ashmounds of the Southern Indian Neolithic were formed, is looking at foodways in several pre- and proto-historic regions of South Asia, exploring the complex pathways of early rice use in the Ganges, and is one of the co-ordinators of the Big Data project Land Cover 6k, with a special focus on South Asia and Korea. 

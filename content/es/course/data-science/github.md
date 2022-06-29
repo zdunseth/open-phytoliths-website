@@ -1,14 +1,14 @@
 ---
-title: Visualization
+title: Collaboration with Github
 date: '2021-01-01'
 type: book
 weight: 30
 highlight: true
 tags:
-  - Data Visualization
+  - collaboration
 ---
 
-Learn how to visualize data with Plotly.
+Learn how to collaborate using GitHub
 
 <!--more-->
 
@@ -16,7 +16,7 @@ Learn how to visualize data with Plotly.
 
 ## Learn
 
-{{< youtube hSPmj7mK6ng >}}
+{{< youtube QFNts5RJ0sM&t  >}}
 
 ## Quiz
 
@@ -34,3 +34,4 @@ fig.show()
 ```
 
 {{< /spoiler >}}
+

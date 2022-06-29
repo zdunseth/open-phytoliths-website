@@ -14,27 +14,30 @@ role: ICOPS member
 
 # Organizations/Affiliations
 organizations:
-  - name: UPF
-    url: ''
+  - name: University Pompeu Fabra
+    url: 'https://www.upf.edu/web/humanitats/entry/-/-/200973/adscripcion/c%C3%A9line-emmanuelle-kerfant'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include phytoliths and open science.
+bio: I am an archaeobotanist who is focusing on tropical past plant-based technology (covering periods as far back as prehistory) 
+through the study of plant anatomy, phytolith and ethnobotany.  I am currently working as a research assistant in the FAIR Phytoliths Project.
 
 interests:
   - Open Research
   - Phytoliths
+  - Comparative anatomy
+  - Plant past technology
 
 education:
   courses:
-    - course: PhD in 
-      institution:  University
-      year: 2012
-    - course: MEng in 
-      institution: University
-      year: 2009
-    - course: BSc in
-      institution: University
-      year: 2008
+    - course: PhD in Quaternary and Prehistory
+      institution:  Rovira i Virgili University
+      year: 2020
+    - course: MSc in Quaternary and Prehistory
+      institution: National Museum of Natural History
+      year: 2015
+    - course: BA in History of Art and Archeology  
+      institution: Paris 1-Panthéon-Sorbonne University
+      year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,13 +46,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:celineemmanuelle.kerfant@upf.edu'
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Cel31
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -60,4 +60,7 @@ user_groups:
   - Teachers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an archaeobotanist who is focusing on tropical past plant-based technology (covering periods as far back as prehistory) 
+through the study of plant anatomy, phytolith and ethnobotany.  
+
+I am currently working as a research assistant in the FAIR Phytoliths Project.

@@ -14,26 +14,27 @@ role: ICOPS member
 
 # Organizations/Affiliations
 organizations:
-  - name: National University of Jujuy, Argentina
-    url: ''
+  - name: School of Humanities and Social Science, National University of Jujuy and Institute of Andean Ecoregions, National Scientific and Technical Research Council
+    url: 'https://www.conicet.gov.ar/new_scp/detalle.php?id=28034&keywords=MUSAUBACH%2BMARIA%2BGABRIELA&datos_academicos=yes'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include phytoliths and open science.
+bio: I am archaeobotanist. Most of my work has focused on ancient starch research and phytoliths analysis in dental calculus, food residues and sediments in pre-Hispanic archaeological sites in Argentina. My current project is archaeobotanical contributions to the Culinary Cultural Heritage study in Quebrada de Humahuaca (Jujuy, Argentina).  
 
 interests:
   - Open Research
   - Phytoliths
+  - Ancient starch
+  - Andean Crop
+  - Foodways
+  - Culinary Heritage
 
 education:
   courses:
-    - course: PhD in 
-      institution:  University
-      year: 2012
-    - course: MEng in 
-      institution: University
-      year: 2009
-    - course: BSc in
-      institution: University
+    - course: PhD in Archaeology
+      institution: School of Philosophy and Letters, University of Buenos Aires (Argentina)
+      year: 2014
+    - course: BSc in Anthropology (5-year degree)
+      institution: School of Natural Sciences and Museum, National University of La Plata (Argentina)
       year: 2008
 
 # Social/Academic Networking
@@ -43,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:gmusaubach@fhycs.unju.edu.ar'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GabyMusa2
@@ -60,4 +61,4 @@ user_groups:
   - Teachers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am archaeobotanist. Most of my work has focused on ancient starch research and phytoliths analysis in dental calculus, food residues and sediments in pre-Hispanic archaeological sites in Argentina. My current project is archaeobotanical contributions to the Culinary Cultural Heritage study in Quebrada de Humahuaca (Jujuy, Argentina). 

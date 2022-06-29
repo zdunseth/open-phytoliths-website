@@ -8,11 +8,11 @@ tags:
   - Collaboration
 ---
 
-Learn how to collaborate using GitHub
+You will learn how to work with a collaborative workflow using Github including version control, forking, branching and pull requests.
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
+{{< icon name="clock" pack="fas" >}} 2 hours 
 
 ## Learn
 

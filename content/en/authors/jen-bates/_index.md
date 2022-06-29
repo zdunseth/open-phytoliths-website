@@ -10,31 +10,36 @@ authors:
 superuser: false
 
 # Role/position
-role: ICOPS member
+role: ICOPS member, Assistant Professor of Archaeological Science
 
 # Organizations/Affiliations
 organizations:
-  - name: Seoul National University
-    url: ''
+  - name: Department of Archaeology and Art History, College of Humanities, Seoul National University 
+    url: 'https://humanities.snu.ac.kr/en/faculty?deptidx=12&md=view&profidx=199'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include phytoliths and open science.
+bio: Jennifer Bates is Assistant Professor of Archaeological Science at the Department of Archaeology and Art History, Seoul National University, Korea. 
 
 interests:
   - Open Research
   - Phytoliths
+  - Archaeobotany 
+  - Macrobotanical remains 
+  - South Asia 
+  - Food
+  - Land use 
 
 education:
   courses:
-    - course: PhD in 
-      institution:  University
-      year: 2012
-    - course: MEng in 
-      institution: University
-      year: 2009
-    - course: BSc in
-      institution: University
-      year: 2008
+     - course: PhD in Archaeology
+      institution:  University of Cambridge
+      year: 2016
+    - course: MA in Research Methods for Archaeology
+      institution: University College London
+      year: 2011
+    - course: MA (Hons) in Archaeology and Anthropology
+      institution: University of Camridge
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,14 +48,14 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:Jbates01@snu.ac.kr'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/DrJenniferBates
   - icon: github
     icon_pack: fab
-    link: https://github.com/
-
+    link: 
+    
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
@@ -60,4 +65,6 @@ user_groups:
   - Teachers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jennifer Bates is Assistant Professor of Archaeological Science at the Department of Archaeology and Art History, Seoul National University, Korea. She works on archaeobotany, specialising in South Asian pre and proto history, and her labs, SNU Archaeological Science Lab and SNU Archaeobotany Lab, are open for analysis across a range of materials. 
+
+Jennifer has several projects at present; she is currently investigating how the ashmounds of the Southern Indian Neolithic were formed, is looking at foodways in several pre- and proto-historic regions of South Asia, exploring the complex pathways of early rice use in the Ganges, and is one of the co-ordinators of the Big Data project Land Cover 6k, with a special focus on South Asia and Korea. 

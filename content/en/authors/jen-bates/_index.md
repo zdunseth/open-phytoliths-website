@@ -18,7 +18,8 @@ organizations:
     url: 'https://humanities.snu.ac.kr/en/faculty?deptidx=12&md=view&profidx=199'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jennifer Bates is Assistant Professor of Archaeological Science at the Department of Archaeology and Art History, Seoul National University, Korea. 
+bio: 
+Jennifer Bates is Assistant Professor of Archaeological Science at the Department of Archaeology and Art History, Seoul National University, Korea. 
 
 interests:
   - Open Research

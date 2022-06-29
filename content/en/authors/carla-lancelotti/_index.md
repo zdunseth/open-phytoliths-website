@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: ICOPS member
+role: ICOPS member, ICREA Research Professor
 
 # Organizations/Affiliations
 organizations:

@@ -15,10 +15,10 @@ role: ICOPS member, Research Associate
 # Organizations/Affiliations
 organizations:
   - name: University Pompeu Fabra
-    url: ' '
+    url: 'https://www.upf.edu/web/humanitats/entry/-/-/200973/adscripcion/c%C3%A9line-emmanuelle-kerfant'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: I am an archaeobotanist who is focusing on tropical past plant-based technology (covering periods as far back as prehistory)  through the study of plant anatomy, phytolith and ethnobotany.  I am currently working as a research assistant in the FAIR Phytoliths Project.
 
 interests:
   - Open Research

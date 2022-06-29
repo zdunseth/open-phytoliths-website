@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: ICOPS member
+role: ICOPS member, Assistant Professor of Archaeological Science
 
 # Organizations/Affiliations
 organizations:
-  - name: Seoul National University 
+  - name: Department of Archaeology and Art History, College of Humanities, Seoul National University 
     url: 'https://humanities.snu.ac.kr/en/faculty?deptidx=12&md=view&profidx=199'
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,6 +23,11 @@ bio:
 interests:
   - Open Research
   - Phytoliths
+  - Archaeobotany 
+  - Macrobotanical remains 
+  - South Asia 
+  - Food
+  - Land use 
   
 education:
   courses:

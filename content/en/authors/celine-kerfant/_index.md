@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: ICOPS member
+role: ICOPS member, Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -63,4 +63,4 @@ user_groups:
 I am an archaeobotanist who is focusing on tropical past plant-based technology (covering periods as far back as prehistory) 
 through the study of plant anatomy, phytolith and ethnobotany.  
 
-I am currently working as a research assistant in the FAIR Phytoliths Project.
+I am currently working as a research associate in the FAIR Phytoliths Project.

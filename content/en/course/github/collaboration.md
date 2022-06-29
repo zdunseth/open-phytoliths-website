@@ -1,11 +1,11 @@
 ---
-title: Collaboration with Github
+title: Collaboration
 date: '2021-01-01'
 type: book
 weight: 30
 highlight: true
 tags:
-  - collaboration
+  - Collaboration
 ---
 
 Learn how to collaborate using GitHub

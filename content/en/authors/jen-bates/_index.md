@@ -37,7 +37,7 @@ education:
     - course: MA in Research Methods for Archaeology
       institution: University College London
       year: 2011
-    - course: MA (Hons) in Archaeology and Anthropology
+    - course: MA Hons in Archaeology and Anthropology
       institution: University of Camridge
       year: 2010
 

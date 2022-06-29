@@ -26,7 +26,7 @@ interests:
   
 education:
   courses:
-     - course: PhD in Archaeology
+    - course: PhD in Archaeology
       institution: University of Cambridge
       year: 2016
     - course: MA in Research Methods for Archaeology

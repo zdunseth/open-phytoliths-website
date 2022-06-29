@@ -47,6 +47,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:celineemmanuelle.kerfant@upf.edu'
+  - icon: twitter
+    icon_pack: fab
+    link: 
   - icon: github
     icon_pack: fab
     link: https://github.com/Cel31

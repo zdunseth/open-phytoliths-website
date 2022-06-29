@@ -18,8 +18,6 @@ Please don't change the file name across the folders, see details for file namin
 The **Online Course Template** empowers you easily create an online course or coaching business with the open source [**Wowchemy Website Builder**](https://wowchemy.com/) for [Hugo](https://github.com/gohugoio/hugo). This Hugo learning theme helps you to teach the way that you want to learn!
 
 [![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
 
 [Check out the latest demo](https://wowchemy.com/docs/) of what you'll get in less than 10 minutes, or [get inspired by how others are using this template](https://wowchemy.com/creators/).
 

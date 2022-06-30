@@ -14,27 +14,30 @@ role: ICOPS member
 
 # Organizations/Affiliations
 organizations:
-  - name: Brown University
+  - name: Brown University,Babson College
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include phytoliths and open science.
+bio: Zach is an archaeologist and geoarchaeologist interested in how people lived in ancient desert landscapes. He has a PhD in Archaeology from Tel Aviv University, and is currently a research associate at Brown University, and a teaching fellow at Babson College. His research has focused mainly on archaeological dung, and in particular the wondrous things dung can tell us about the ancient world. 
 
 interests:
   - Open Research
   - Phytoliths
+  - Geoarchaeology
+  - Desert archaeology
+  - Dung studies
 
 education:
   courses:
-    - course: PhD in 
-      institution:  University
-      year: 2012
-    - course: MEng in 
-      institution: University
+    - course: PhD in Archaeology
+      institution:  Tel Aviv University
+      year: 2019
+    - course: MA in Archaeology and Ancient Near Eastern Cultures
+      institution: Tel Aviv University
+      year: 2014
+    - course: BA in Archaeology and Classical Humanities
+      institution: George Washington University
       year: 2009
-    - course: BSc in
-      institution: University
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,13 +46,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:zachary_dunseth@brown.edu'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/
+    link: 
   - icon: github
     icon_pack: fab
-    link: https://github.com/
+    link: 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -60,4 +63,5 @@ user_groups:
   - Teachers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Zach is an archaeologist and geoarchaeologist interested in how people lived in ancient desert landscapes. He has a PhD in Archaeology from Tel Aviv University, and is currently a research associate at Brown University, and a teaching fellow at Babson College. His research has focused mainly on archaeological dung, and in particular the wondrous things dung can tell us about the ancient world. 
+

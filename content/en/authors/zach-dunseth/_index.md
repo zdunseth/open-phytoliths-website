@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Zach is an archaeologist and geoarchaeologist interested in how people lived in ancient desert landscapes. He has a PhD in Archaeology from Tel Aviv University, and is currently a research associate at Brown University, and a teaching fellow at Babson College. His research has focused mainly on archaeological dung, and in particular the wondrous things dung can tell us about the ancient world. 
+bio: Zach is an archaeologist and geoarchaeologist interested in how people lived in ancient desert landscapes. 
 
 interests:
   - Open Research

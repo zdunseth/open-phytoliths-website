@@ -61,6 +61,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Teachers
+  - icops
 ---
 
 I graduated in Archaeology at the University of Bologna and, after a Master in Archaeological Science at the University of Milan, I obtained my PhD in Archaeobotany from the University of Cambridge. After my PhD I held several postdoctoral contracts, including a MSC cofund contract at Univeristat Pompeu Fabra. 

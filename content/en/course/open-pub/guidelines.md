@@ -5,6 +5,6 @@ type: book
 weight: 20
 ---
 
-{{< gdocs src="https://docs.google.com/document/d/e/2PACX-1vSvzQCzEcSWFMce2qiYRiBKVxjpB1H6B5I_MJoAW_w7Ko6-GUnOw36zAZHhXnYI4y3AjmiVQxTiARhQ/pub" >}}
+{{< gdocs src="https://docs.google.com/document/d/1D9-O2wACK_c6mvmc5JdiHUPtT6OEoCTdP_vo6lQmpJ4/edit?usp=sharing" >}}
 
 

@@ -74,7 +74,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Intereste din everything open science and phytoliths.
+bio: Interested in everything open science and phytoliths.
 
 interests:
   - Open research

@@ -60,6 +60,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Teachers
+  - icops
 ---
 
 I am an archaeobotanist who is focusing on tropical past plant-based technology (covering periods as far back as prehistory) 

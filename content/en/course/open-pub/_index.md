@@ -30,25 +30,25 @@ The guidelines can be found on Zenodo here:
 
 ## Team members
 
-{{< mention "abraham-dabengwa" >}}
+{{< mention "abraham-dabengwa" >}},
 
-{{< mention "carla-lancelotti" >}}
+{{< mention "carla-lancelotti" >}},
 
-{{< mention "celine-kerfant" >}}
+{{< mention "celine-kerfant" >}},
 
-{{< mention "doris-barboni" >}}
+{{< mention "doris-barboni" >}},
 
-{{< mention "admin" >}}
+{{< mention "admin" >}},
 
-{{< mention "javier-rp" >}}
+{{< mention "javier-rp" >}},
 
-{{< mention "jen-bates" >}}
+{{< mention "jen-bates" >}},
 
-{{< mention "jj-garciagranero" >}}
+{{< mention "jj-garciagranero" >}},
 
-{{< mention "marco-madella" >}}
+{{< mention "marco-madella" >}},
 
-{{< mention "gabi-musaubach" >}}
+{{< mention "gabi-musaubach" >}},
 
 {{< mention "zach-dunseth" >}}
 

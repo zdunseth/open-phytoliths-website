@@ -52,7 +52,12 @@ Please visit our [website](https://open-phytoliths.github.io/FAIR-phytoliths/) o
 
 ## Meet the team members
 
-{{< mention "admin, carla-lancelotti, celine-kerfant, javier-rp, jj-garciagranero, marco-madella" >}}
+{{< mention "admin" >}}
+{{< mention "carla-lancelotti" >}}
+{{< mention "celine-kerfant" >}}
+{{< mention "javier-rp" >}}
+{{< mention "jj-garciagranero" >}}
+{{< mention "marco-madella" >}}
 
 ## Funding
 

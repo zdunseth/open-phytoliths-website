@@ -58,6 +58,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Teachers
+  
 
 # Display name
 title: Emma Karoune
@@ -118,6 +119,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Teachers
+  - icops
 ---
 
 Emma is a specialist in Archaeobotany with a PhD from the Institute of Archaeology, University College London, and she is the Principal Investigator on the FAIR Phytoliths Project based at Historic England working with colleagues from Universitat Pompeu Fabra. the Spanish National Research Council and Texas A&M University, funded by EOSC Life. She is also involved in a project to develop the use of phytolith research in British archaeology by developing a comprehensive and open reference collection. Emma writes a blog called The Open Archaeobotanist and regularly gives talks about her open archaeological work.

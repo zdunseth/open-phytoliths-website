@@ -6,7 +6,7 @@ weight: 20
 ---
 
 
-{{% staticref "Open-publishing-ICOPS-v1.pdf" "newtab" %}}Download Open Publishing Guide{{% /staticref %}}
+{{% staticref "uploads/Open-publishing-ICOPS-v1.pdf" "newtab" %}}Download Open Publishing Guide{{% /staticref %}}
 
 ### Please cite this guide as:
 

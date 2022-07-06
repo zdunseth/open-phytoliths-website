@@ -22,7 +22,7 @@ cta:
   url: '#courses'
   label: Explore our projects
   icon_pack: fas
-  icon: user-graduate
+  icon: seedling
 cta_alt:
   url:
   label:
@@ -37,4 +37,4 @@ advanced:
 Building a shared vision for open science adoption and implementation among phytolith researchers globally. 
 
 <a class="github-button" href="https://github.com/open-phytoliths" data-icon="octicon-star" data-size="large" aria-label="Visit our GitHub organisation page">Visit our GitHub organisation page</a><br>
-<a class="github-button" href="https://twitter.com/open_phytoliths" data-icon="octicon-star" data-size="large" aria-label="Follow us on Twitter">Follow us on Twitter</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+<a class="github-button" href="https://twitter.com/open_phytoliths" data-icon="octicon-star" data-size="large" aria-label="Follow us on Twitter">Follow us on Twitter</a></script>

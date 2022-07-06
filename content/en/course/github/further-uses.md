@@ -13,7 +13,7 @@ You will learn how to enable and edit Github pages (websites), how to use link a
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 2 hours per week
+{{< icon name="clock" pack="fas" >}} 2 hours
 
 ## Learn
 ### How to enable and edit Github repositories for web pages

@@ -9,6 +9,7 @@ tags:
 ---
 
 {{< figure src="featured.jpg" >}}
+*The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.*
 
 {{< toc hide_on="xl" >}}
 

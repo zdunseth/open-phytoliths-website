@@ -14,8 +14,6 @@ header:
   image: ""
 ---
 
-# Glossary
-
 ## A
 
 ## B

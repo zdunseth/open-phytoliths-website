@@ -28,5 +28,27 @@ The guidelines can be found on Zenodo here:
 
 {{< list_children >}}
 
+Team members
 
+{{< mention "abraham-dabengwa" >}}
+
+{{< mention "carla-lancelotti" >}}
+
+{{< mention "celine-kerfant" >}}
+
+{{< mention "doris-barboni" >}}
+
+{{< mention "admin" >}}
+
+{{< mention "javier-rp" >}}
+
+{{< mention "jen-bates" >}}
+
+{{< mention "jj-garciagranero" >}}
+
+{{< mention "marco-madella" >}}
+
+{{< mention "gabi-musaubach" >}}
+
+{{< mention "zach-dunseth" >}}
 

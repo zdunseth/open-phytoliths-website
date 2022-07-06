@@ -60,7 +60,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Teachers
+  
 ---
 
 Zach is an archaeologist and geoarchaeologist interested in how people lived in ancient desert landscapes. He has a PhD in Archaeology from Tel Aviv University, and is currently a research associate at Brown University, and a teaching fellow at Babson College. His research has focused mainly on archaeological dung, and in particular the wondrous things dung can tell us about the ancient world. 

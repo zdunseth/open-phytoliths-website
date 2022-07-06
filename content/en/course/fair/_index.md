@@ -52,7 +52,7 @@ Please visit our [website](https://open-phytoliths.github.io/FAIR-phytoliths/) o
 
 ## Meet the team members
 
-{{< mention "Teachers" >}}
+{{< mention "carla-lancelotti" >}}
 
 ## Funding
 

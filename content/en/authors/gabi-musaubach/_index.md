@@ -58,7 +58,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Teachers
+  
 ---
 
 I am archaeobotanist. Most of my work has focused on ancient starch research and phytoliths analysis in dental calculus, food residues and sediments in pre-Hispanic archaeological sites in Argentina. 

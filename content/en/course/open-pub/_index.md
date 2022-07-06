@@ -24,11 +24,11 @@ This will be the first of its kind to ask authors to comply with good open scien
 
 The guidelines can be found on Zenodo here: 
 
-## Part of project
+## Parts of project
 
 {{< list_children >}}
 
-Team members
+## Team members
 
 {{< mention "abraham-dabengwa" >}}
 

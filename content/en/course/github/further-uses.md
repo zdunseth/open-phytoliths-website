@@ -10,9 +10,9 @@ tags:
 ---
 
 You will learn:
-* how to enable and edit Github pages (websites) 
-* how to use link and use repositories with Github, including Zenodo and Open Science Framework
-* how to use project boards for project management
+* how to enable and edit Github pages (websites), 
+* how to use link and use repositories with Github, including Zenodo and Open Science Framework,
+* how to use project boards for project management.
 
 <!--more-->
 

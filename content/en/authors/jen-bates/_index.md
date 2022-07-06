@@ -62,7 +62,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Teachers
+  
 ---
 
 Jennifer Bates is Assistant Professor of Archaeological Science at the Department of Archaeology and Art History, Seoul National University, Korea. She works on archaeobotany, specialising in South Asian pre and proto history, and her labs, SNU Archaeological Science Lab and SNU Archaeobotany Lab, are open for analysis across a range of materials. 

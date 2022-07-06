@@ -22,10 +22,10 @@ You will learn how to work with a collaborative workflow using Github including 
 ### Branching and Forking
 {{< youtube EjUMKh-pE3A >}}
 
-### Pull requests and Issues
+### Pull requests 
 {{< youtube gJXVxrtvTLU >}}
 
-### Collaborative workflow
+### Issues and colllaborative workflows
 {{< youtube RgfN5QqFxxg >}}
 
 ### Working collaboratively

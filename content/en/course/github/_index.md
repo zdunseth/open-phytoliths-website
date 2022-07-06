@@ -37,11 +37,11 @@ The third course covers how to enable and edit Github pages (websites), how to l
 
 ## Meet your instructor
 
-{{< mention "admin" >}}
+{{< mention "admin" >}},
 
-{{< mention "celine-kerfant" >}}
+{{< mention "celine-kerfant" >}},
 
-{{< mention "javier-rp" >}}
+{{< mention "javier-rp" >}},
 
 ## FAQs
 
@@ -53,4 +53,4 @@ There are no prerequisites for the first course.
 Continuously, at your own pace.
 {{< /spoiler >}}
 
-{{< cta cta_text="Begin the course" cta_link="basic" >}}
+{{< cta cta_text="Begin the course" cta_link="basics" >}}

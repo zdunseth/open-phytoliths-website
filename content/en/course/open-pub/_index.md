@@ -23,7 +23,7 @@ This will be the first of its kind to ask authors to comply with good open scien
 
 ## Find out more
 
-The guidelines can be found on Zenodo here: 
+The guidelines can be found on Zenodo here:[Open Phytolith Publishing Guidelines](https://doi.org/10.5281/zenodo.6803489). 
 
 ## Parts of project
 

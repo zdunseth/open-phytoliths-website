@@ -16,13 +16,20 @@ You will learn how to work with a collaborative workflow using Github including 
 
 ## Learn
 
+### Version control
 {{< youtube QFNts5RJ0sM >}}
 
-### Version control
-
+### Branching and Forking
 {{< youtube EjUMKh-pE3A >}}
 
-### Branching and Forking
+### Pull requests and Issues
+{{< youtube gJXVxrtvTLU >}}
+
+### Collaborative workflow
+{{< youtube RgfN5QqFxxg >}}
+
+### Working collaboratively
+{{< youtube BaxgtJYkE98 >}}
 
 ## Quiz
 

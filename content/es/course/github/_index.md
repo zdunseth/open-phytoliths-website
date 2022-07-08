@@ -1,7 +1,7 @@
 ---
-title: 📊 Learn Github
+title: 📊 Aprender Github
 linkTitle: Github
-summary: Our first set of training courses for the phytolith community happened in three sessions in Spring 2022. Here are all of the materials for these three sessions, so that you can work through them at your own pace. 
+summary: Nuestro primer conjunto de cursos de capacitación para la comunidad de fitolitos se llevó a cabo en tres sesiones en la primavera de 2022. Aquí están todos los materiales para estas tres sesiones, para que pueda trabajar en ellas a su propio ritmo.
 date: '2021-01-24'
 type: book
 tags:
@@ -12,30 +12,30 @@ tags:
 
 {{< toc hide_on="xl" >}}
 
-## What you will learn
+## Lo que vas a aprender
 
 - {{<hl>}}Github Basics{{</hl>}}
 - {{<hl>}}Collaboration{{</hl>}} with Github
 - {{<hl>}}Further uses{{</hl>}} of Github 
 
-## Program overview
-Github is a tool that is used for research project management and history tracking of your work during projects. It can be used to store and collaborate during projects with data, code and documentation. It is also useful for making free websites. 
+## Reseña del programa
+Github es una herramienta que se utiliza para la gestión de proyectos de investigación y el seguimiento del historial de su trabajo durante los proyectos. Se puede utilizar para almacenar y colaborar durante proyectos con datos, código y documentación. También es útil para hacer sitios web gratuitos.
 
-The first basic course will cover the basic web interface of Github and how to make repositories, add files and folders. It will also include some examples of uses of Github.  
+El primer curso básico cubrirá la interfaz web básica de Github y cómo crear repositorios, agregar archivos y carpetas. También incluirá algunos ejemplos de usos de Github.
 
-The second course covers collaborative workflows using Github including forking, branches and pull requests.
+El segundo curso cubre flujos de trabajo colaborativos usando Github, incluyendo bifurcaciones, ramas y solicitudes de extracción.
 
-The third course covers how to enable and edit Github pages (websites), how to link Github to long-term archiving repositories (Zenodo and Open Science Framework) and briefly goes over project management boards.
+El tercer curso cubre cómo habilitar y editar páginas de Github (sitios web), cómo vincular Github a repositorios de archivo a largo plazo (Zenodo y Open Science Framework) y repasa brevemente los tableros de administración de proyectos.
 
-* Here is an example of a Github repository used for a phytolith project: https://github.com/open-phytoliths/FAIR-phytoliths
-* And a website produced using Github: https://open-phytoliths.github.io/FAIR-phytoliths/
+* Aquí hay un ejemplo de un repositorio de Github utilizado para un proyecto de fitolitos: https://github.com/open-phytoliths/FAIR-phytoliths
+* Y un sitio web producido con Github: https://open-phytoliths.github.io/FAIR-phytoliths/
 
 
-## Courses in this program
+## Cursos en este programa
 
 {{< list_children >}}
 
-## Meet your instructor
+## Conoce a tus instructoras
 
 {{< mention "admin" >}},
 
@@ -43,7 +43,7 @@ The third course covers how to enable and edit Github pages (websites), how to l
 
 {{< mention "javier-rp" >}},
 
-## FAQs
+## Preguntas comunes
 
 {{< spoiler text="Are there prerequisites?" >}}
 There are no prerequisites for the first course.

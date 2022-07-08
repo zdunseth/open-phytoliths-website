@@ -5,41 +5,41 @@ type: book
 weight: 20
 ---
 
-Get familiar with the Github web browser interface, make a new repository and add files and folders.
+Familiarícese con la interfaz del navegador web Github, cree un nuevo repositorio y agregue archivos y carpetas.
 
 <!--more-->
 
 {{< icon name="clock" pack="fas" >}} 2 hours
 
-## Learn
+## Aprender
 
 {{< youtube uVsYTv4CG14 >}}
 
-## Quiz
+## Prueba
 
-{{< spoiler text="Give an example of a use of Github that you learnt about in this session??" >}}
-Examples
-* Collaboration as teams
-* Share documentation
-* Build websites
-* Set up presentations
-* Project management
-* Continuous integration
-* Add-on repositories for long term archiving with DOI
-* Project tracking with version control
+{{< spoiler text="Dé un ejemplo de un uso de Github que aprendió en esta sesión?" >}}
+Ejemplos
+* Colaboración en equipos
+* Compartir documentación
+* Construir sitios web
+* Configurar presentaciones
+* Gestión de proyectos
+* Integración continua
+* Repositorios complementarios para archivado a largo plazo con DOI
+* Seguimiento de proyectos con control de versiones
   {{< /spoiler >}}
 
-{{< spoiler text="Describe how to start editing a file in Github?" >}}
-* Press the pencil icon button.
+{{< spoiler text="Describe cómo comenzar a editar un archivo en Github." >}}
+* Presiona el botón del icono del lápiz.
 {{< /spoiler >}}
 
-{{< spoiler text="What are the two files you need to create when making a new repository?" >}}
-* README file.
-* License file.
+{{< spoiler text="¿Cuáles son los dos archivos que necesita crear al crear un nuevo repositorio?" >}}
+* Archivo README.
+* Archivo de licencia.
 {{< /spoiler >}}
 
-{{< spoiler text="What is markdown script?" >}}
-* It’s a human readable script that can be use to add formatting elements to plaintext text documents.
-* The syntax makes it render in a way that presents a nicely formatted document on Github or webpages.
+{{< spoiler text="¿Qué es el guión de rebajas?" >}}
+* Es un script legible por humanos que se puede usar para agregar elementos de formato a documentos de texto sin formato.
+* La sintaxis hace que se represente de una manera que presenta un documento bien formateado en Github o páginas web.
 {{< /spoiler >}}
 

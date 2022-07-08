@@ -1,5 +1,5 @@
 ---
-title: Github training
+title: Github capacitación
 date: 2022-04-22
 ---
 
@@ -7,8 +7,8 @@ date: 2022-04-22
 
 <!--more-->
 
-As part of the first initiative of ICOPS, we will be running training in different aspects of open research practices. 
+Como parte de la primera iniciativa de ICOPS, realizaremos capacitaciones en diferentes aspectos de las prácticas de investigación abierta.
 
-This has started with Github training and over the last few month we have run three sessions: Github basics, Collaboration with Github and Further uses of Github.
+Esto comenzó con la capacitación de Github y durante los últimos meses hemos realizado tres sesiones: conceptos básicos de Github, colaboración con Github y usos adicionales de Github.
 
-You can find the resources in [our Github repository here](https://github.com/open-phytoliths/ICOPS-training-2022) and we also have a YouTube channel that contains videos of these workshops. [Here is a link to our YouTube channel.](https://www.youtube.com/channel/UCukf5wnApLug8bIZMJAhxOw)
+Puede encontrar los recursos en [nuestro repositorio de Github aquí](https://github.com/open-phytoliths/ICOPS-training-2022) y también tenemos un canal de YouTube que contiene videos de estos talleres. [Aquí hay un enlace a nuestro canal de YouTube.](https://www.youtube.com/channel/UCukf5wnApLug8bIZMJAhxOw).

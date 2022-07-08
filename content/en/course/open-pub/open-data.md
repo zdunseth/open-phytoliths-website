@@ -5,6 +5,8 @@ type: book
 weight: 20
 ---
 
+![zenodo guide](zenodo-guide.jpg "Zenodo guide")
+
 {{% staticref "uploads/zen-guide.pdf" "newtab" %}}Download uploading data to Zenodo guide{{% /staticref %}}
 
 ### Please cite this guide as:

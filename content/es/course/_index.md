@@ -1,5 +1,5 @@
 ---
-title: 📚 Projects
+title: 📚 Proyectos
 type: page
 tags:
   - preface
@@ -11,4 +11,4 @@ banner:
   image: ''
 ---
 
-Explore the projects we are currently undertaking and see how you can join in!
+¡Explore los proyectos que estamos llevando a cabo actualmente y vea cómo puede unirse!

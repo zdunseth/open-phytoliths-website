@@ -9,27 +9,27 @@ tags:
   - Repositories
 ---
 
-You will learn:
-* how to enable and edit Github pages (websites), 
-* how to use link and use repositories with Github, including Zenodo and Open Science Framework,
-* how to use project boards for project management.
+Aprenderás:
+* cómo habilitar y editar páginas de Github (sitios web),
+* cómo usar enlaces y usar repositorios con Github, incluidos Zenodo y Open Science Framework,
+* cómo usar tableros de proyectos para la gestión de proyectos.
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 2 hours
+{{< icon name="clock" pack="fas" >}} 2 horas
 
-## Learn
-### How to enable and edit Github repositories for web pages
+## Aprender
+### Cómo habilitar y editar repositorios de Github para páginas web
 {{< youtube pU7UlAip4oo  >}}
 
 ### How to link repositories in Github
 {{< youtube 9RVFFg4A9gY  >}}
 
-### How to use project boards
+### Cómo usar tableros de proyecto
 {{< youtube tbB9NGKSdZ4  >}}
 
-## Quiz
+## Prueba
 
-{{< spoiler text="What repositories can you link to using Github?" >}}
-* Zenodo, Open Science Framework and Figshare.
+{{< spoiler text="¿A qué repositorios puedes vincular usando Github?" >}}
+* Zenodo, Open Science Framework y Figshare.
 {{< /spoiler >}}

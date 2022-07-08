@@ -22,7 +22,7 @@ Aprenderás:
 ### Cómo habilitar y editar repositorios de Github para páginas web
 {{< youtube pU7UlAip4oo  >}}
 
-### How to link repositories in Github
+### Cómo vincular repositorios en Github
 {{< youtube 9RVFFg4A9gY  >}}
 
 ### Cómo usar tableros de proyecto

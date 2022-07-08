@@ -18,7 +18,9 @@ organizations:
     url: 'https://www.upf.edu/web/humanitats/entry/-/-/200973/adscripcion/c%C3%A9line-emmanuelle-kerfant'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an archaeobotanist who is focusing on tropical past plant-based technology (covering periods as far back as prehistory)  through the study of plant anatomy, phytolith and ethnobotany.  I am currently working as a research assistant in the FAIR Phytoliths Project.
+bio: Soy un arqueobotánico que se centra en la tecnología basada en plantas del pasado tropical (que abarca períodos que se remontan a la prehistoria)
+a través del estudio de la anatomía vegetal, fitolitos y etnobotánica.
+Actualmente estoy trabajando como investigador asociado en el Proyecto FAIR Phytoliths.
 
 interests:
   - Open Research
@@ -63,6 +65,6 @@ user_groups:
   - icops
 ---
 
-I am an archaeobotanist who is focusing on tropical past plant-based technology (covering periods as far back as prehistory) 
-through the study of plant anatomy, phytolith and ethnobotany.  
-I am currently working as a research associate in the FAIR Phytoliths Project.
+Soy un arqueobotánico que se centra en la tecnología basada en plantas del pasado tropical (que abarca períodos que se remontan a la prehistoria)
+a través del estudio de la anatomía vegetal, fitolitos y etnobotánica.
+Actualmente estoy trabajando como investigador asociado en el Proyecto FAIR Phytoliths.

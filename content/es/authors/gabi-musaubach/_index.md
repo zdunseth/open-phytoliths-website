@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.conicet.gov.ar/new_scp/detalle.php?id=28034&keywords=MUSAUBACH%2BMARIA%2BGABRIELA&datos_academicos=yes'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am archaeobotanist. Most of my work has focused on ancient starch research and phytoliths analysis in dental calculus, food residues and sediments in pre-Hispanic archaeological sites in Argentina. My current project is Archaeobotanical contributions to the Culinary Cultural Heritage study in Quebrada de Humahuaca (Jujuy, Argentina).
+bio: Soy arqueobotánica. La mayor parte de mi trabajo se ha centrado en la investigación de almidón antiguo y análisis de fitolitos en cálculos dentales, residuos de alimentos y sedimentos en sitios arqueológicos prehispánicos en Argentina. Mi proyecto actual es Aportes arqueobotánicos al estudio del Patrimonio Cultural Culinario en la Quebrada de Humahuaca (Jujuy, Argentina).
 
 interests:
   - Open Research
@@ -62,6 +62,7 @@ user_groups:
   
 ---
 
-I am archaeobotanist. Most of my work has focused on ancient starch research and phytoliths analysis in dental calculus, food residues and sediments in pre-Hispanic archaeological sites in Argentina. 
+Soy arqueobotánica. La mayor parte de mi trabajo se ha centrado en la investigación de almidón antiguo y análisis de fitolitos en cálculos dentales, residuos de alimentos y sedimentos en sitios arqueológicos prehispánicos en Argentina. 
 
-My current project is Archaeobotanical contributions to the Culinary Cultural Heritage study in Quebrada de Humahuaca (Jujuy, Argentina)
+Mi proyecto actual es Aportes arqueobotánicos al estudio del Patrimonio Cultural Culinario en la Quebrada de Humahuaca (Jujuy, Argentina).
+

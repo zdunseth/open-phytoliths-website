@@ -20,6 +20,7 @@ feature:
 ---
 
 La Comunidad Abierta de Fitolitos ha sido iniciada por el Comité Internacional de Ciencia Abierta de Fitolitos (ICOPS).
+
 Como comité, adoptamos prácticas abiertas y nos esforzamos por hacer que todo lo que hacemos sea transparente para que podamos generar confianza dentro de nuestra comunidad. Alentamos activamente a nuestra comunidad a enviar comentarios y opiniones sobre cualquier documento, capacitación e iniciativa que pongamos a su disposición. Nos complace saber de usted e incluiremos sus comentarios en nuestro trabajo asegurándonos de darle crédito.
 
 Queremos explorar los diferentes aspectos de la ciencia abierta con nuestra comunidad para analizar los beneficios y los problemas de adoptar prácticas como datos abiertos, métodos abiertos y software de código abierto. Queremos trabajar con nuestra comunidad para superar las barreras y seguir reevaluando cómo se utilizan mejor estas prácticas.

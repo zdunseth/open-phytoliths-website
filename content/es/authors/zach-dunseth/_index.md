@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Zach is an archaeologist and geoarchaeologist interested in how people lived in ancient desert landscapes. 
+bio: Zach es un arqueólogo y geoarqueólogo interesado en cómo vivía la gente en los antiguos paisajes desérticos.
 
 interests:
   - Open Research
@@ -64,5 +64,5 @@ user_groups:
   
 ---
 
-Zach is an archaeologist and geoarchaeologist interested in how people lived in ancient desert landscapes. He has a PhD in Archaeology from Tel Aviv University, and is currently a research associate at Brown University, and a teaching fellow at Babson College. His research has focused mainly on archaeological dung, and in particular the wondrous things dung can tell us about the ancient world. 
+Zach es un arqueólogo y geoarqueólogo interesado en cómo vivía la gente en los antiguos paisajes desérticos. Tiene un doctorado en Arqueología de la Universidad de Tel Aviv, y actualmente es investigador asociado en la Universidad de Brown y profesor en Babson College. Su investigación se ha centrado principalmente en el estiércol arqueológico y, en particular, en las cosas maravillosas que el estiércol puede contarnos sobre el mundo antiguo.
 

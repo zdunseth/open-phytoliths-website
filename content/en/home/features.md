@@ -21,6 +21,8 @@ feature:
 
 ---
 
+Open Phytoliths Community has been initiated by the *International Committee on Open Phytolith Science (ICOPS)*. 
+
 As a committee we embrace open practices and strive to make everything that we do transparent so that we can build trust within our community. We actively encourage our community to send comments and feedback for any documents, training and initiatives that we make available. We are happy to hear from you and we will include your comments in our work making sure that we give you credit. 
 
 We want to explore the different aspects of open science with our community to discuss the benefits and problems with adopting practices such as open data, open methods and open source software. We want to work with our community to overcome barriers and keep reassessing how these practices are best used. 

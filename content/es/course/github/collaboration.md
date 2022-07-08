@@ -8,15 +8,15 @@ tags:
   - Collaboration
 ---
 
-You will learn how to work with a collaborative workflow using Github including version control, forking, branching and pull requests.
+Aprenderá a trabajar con un flujo de trabajo colaborativo utilizando Github, incluido el control de versiones, la bifurcación, la bifurcación y las solicitudes de extracción.
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 2 hours 
+{{< icon name="clock" pack="fas" >}} 2 horas
 
-## Learn
+## Aprender
 
-### Version control
+### Control de versiones
 {{< youtube QFNts5RJ0sM >}}
 
 ### Branching and Forking
@@ -25,20 +25,20 @@ You will learn how to work with a collaborative workflow using Github including 
 ### Pull requests 
 {{< youtube gJXVxrtvTLU >}}
 
-### Issues and colllaborative workflows
+### Issues y flujos de trabajo colaborativos
 {{< youtube RgfN5QqFxxg >}}
 
-### Working collaboratively
+### Trabajando en colaboración
 {{< youtube BaxgtJYkE98 >}}
 
-## Quiz
+## Prueba
 
-{{< spoiler text="What is version control?" >}}
-* The management of changes, called revisions, to a file.
+{{< spoiler text="¿Qué es el control de versiones?" >}}
+* La gestión de los cambios, llamados revisiones, a un archivo.
 {{< /spoiler >}}
 
-{{< spoiler text="How is working in a fork different from working in a branch?" >}}
-* A fork is a copy of a repository that is an entirely independent repo. There is no need for write access or intent to merge with the main.
-* A branch points to a specific commit in your repo. Branches are temporary places to work through a featureor task and you need write access to the repository. 
+{{< spoiler text="¿En qué se diferencia trabajar en un tenedor de trabajar en una rama?" >}}
+* Una bifurcación es una copia de un repositorio que es un repositorio completamente independiente. No hay necesidad de acceso de escritura o intención de fusionarse con el principal.
+* Una rama apunta a una confirmación específica en su repositorio. Las ramas son lugares temporales para trabajar a través de una característica o tarea y necesita acceso de escritura al repositorio.
 {{< /spoiler >}}
 

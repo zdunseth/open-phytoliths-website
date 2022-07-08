@@ -1,35 +1,35 @@
 ---
-title: Statistics
+title: Further uses with Github
 date: '2021-01-01'
 type: book
 weight: 40
 math: true
 tags:
-  - Statistics
+  - Webpages
+  - Repositories
 ---
 
-Introduction to statistics for data science.
+You will learn:
+* how to enable and edit Github pages (websites), 
+* how to use link and use repositories with Github, including Zenodo and Open Science Framework,
+* how to use project boards for project management.
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
+{{< icon name="clock" pack="fas" >}} 2 hours
 
 ## Learn
+### How to enable and edit Github repositories for web pages
+{{< youtube pU7UlAip4oo  >}}
 
-The general form of the **normal** probability density function is:
+### How to link repositories in Github
+{{< youtube 9RVFFg4A9gY  >}}
 
-$$
-f(x) = \frac{1}{\sigma \sqrt{2\pi} } e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}
-$$
-
-{{< callout note >}}
-The parameter $\mu$ is the mean or expectation of the distribution.
-$\sigma$ is its standard deviation.
-The variance of the distribution is $\sigma^{2}$.
-{{< /callout >}}
+### How to use project boards
+{{< youtube tbB9NGKSdZ4  >}}
 
 ## Quiz
 
-{{< spoiler text="What is the parameter $\mu$?" >}}
-The parameter $\mu$ is the mean or expectation of the distribution.
+{{< spoiler text="What repositories can you link to using Github?" >}}
+* Zenodo, Open Science Framework and Figshare.
 {{< /spoiler >}}

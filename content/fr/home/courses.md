@@ -2,7 +2,7 @@
 widget: portfolio
 headless: true
 weight: 30
-title: Explore top courses
+title: Our projects
 subtitle:
 content:
   filters:
@@ -16,7 +16,7 @@ content:
   filter_default: 0
 
   filter_button:
-    - name: All Courses
+    - name: All Projects
       tag: '*'
     - name: Previous
       tag: previous

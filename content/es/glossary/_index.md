@@ -1,6 +1,6 @@
 ---
-title: Glossary
-summary: Definitions for lots of open research and phytolith keywords.
+title: Glosario
+summary: Definiciones para muchas palabras clave de investigación abierta y fitolitos.
 date: "2022-07-06T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?

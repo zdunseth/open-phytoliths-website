@@ -1,7 +1,7 @@
 ---
-title: Open Publishing Guidelines
-linkTitle: Open Publishing
-summary: Help for the phytolith community with publishing more openly and FAIRly. 
+title: Directrices de publicación abierta
+linkTitle: Publicación abierta
+summary: Ayuda para la comunidad de fitolitos con publicaciones más abiertas y JUSTAS.
 date: '2021-01-24'
 type: book
 tags:
@@ -13,23 +13,23 @@ tags:
 
 {{< toc hide_on="xl" >}}
 
-## What the project is about
+## De que se trata el proyecto
 
-### Development of the guidelines
+### Desarrollo de las directrices
 
-The open publishing guidelines were requested to be developed by the International Committee on Open Phytolith Science by Doris Barboni. The guidelines are initially for use in the special issue on Phytoliths in Asia for the journal - *Review of Palaeobotany and Palynology*. 
+Doris Barboni solicitó que las pautas de publicación abierta fueran desarrolladas por el Comité Internacional de Ciencia Abierta de Fitolitos. Las directrices se utilizarán inicialmente en el número especial sobre fitolitos en Asia de la revista *Review of Palaeobotany and Palynology*.
 
-This will be the first of its kind to ask authors to comply with good open science practices for all of the submissions and we offer these guidelines about best practice to assist authors.  
+Este será el primero de su tipo en pedir a los autores que cumplan con las buenas prácticas de ciencia abierta para todas las presentaciones y ofrecemos estas pautas sobre las mejores prácticas para ayudar a los autores.
 
-## Find out more
+## Saber más
 
-The guidelines can be found on Zenodo here: [Open Phytolith Publishing Guidelines](https://doi.org/10.5281/zenodo.6803489). 
+Las pautas se pueden encontrar en Zenodo aquí: [Open Phytolith Publishing Guidelines](https://doi.org/10.5281/zenodo.6803489). 
 
-## Parts of project
+## Partes del proyecto
 
 {{< list_children >}}
 
-## Team members
+## Miembros del equipo
 
 {{< mention "abraham-dabengwa" >}},
 

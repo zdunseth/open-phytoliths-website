@@ -1,13 +1,13 @@
 ---
-title: Open Phytolith Publishing Guidelines
+title: Directrices de publicación de Open Phytolith
 date: '2022-07-06'
 type: book
 weight: 20
 ---
 
-![Open Phytolith Publishing Guidelines](open-pub-guide.jpg "Open Phytolith Publishing Guidelines on Zenodo")
+![Directrices de publicación de Open Phytolith](open-pub-guide.jpg "Directrices de publicación de Open Phytolith")
 
-{{% staticref "uploads/Open-publishing-ICOPS-v1.pdf" "newtab" %}}Download Open Publishing Guide{{% /staticref %}}
+{{% staticref "uploads/Open-publishing-ICOPS-v1.pdf" "newtab" %}}Descargue la Guía de publicación de Open Phytolith{{% /staticref %}}
 
 ### Please cite this guide as:
 

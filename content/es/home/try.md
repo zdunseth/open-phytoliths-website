@@ -1,5 +1,5 @@
 ---
-title: More resources
+title: Conozca al equipo ICOPS
 subtitle:
 widget: blank
 weight: 50

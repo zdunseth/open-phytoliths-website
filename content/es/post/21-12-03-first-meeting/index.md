@@ -1,5 +1,5 @@
 ---
-title: First Meeting of the International Committee on Open Phytolith Science
+title: Primera Reunión del Comité Internacional de Ciencia Abierta de Fitolitos
 date: 2021-12-03
 thumbnail-img: meeting1.jpg
 ---
@@ -11,11 +11,11 @@ thumbnail-img: meeting1.jpg
 
 ![first meeting photo](meeting1.jpg "Our first ICOPS meeting")
 
-The International Committee on Open Phytolith Science (ICOPS) has been created within the International Phytolith Society to work on increasing the knowledge of and implementation of open science practices in phytolith research. 
+El Comité Internacional de Ciencia Abierta de Fitolitos (ICOPS) se creó dentro de la Sociedad Internacional de Fitolitos para trabajar en el aumento del conocimiento y la implementación de prácticas de ciencia abierta en la investigación de fitolitos.
 
-The first committee meeting took place on 3rd December 2021. We have 11 committee members who come from all over the world. 
+La primera reunión del comité tuvo lugar el 3 de diciembre de 2021. Tenemos 11 miembros del comité que vienen de todo el mundo.
 
-The committee members are (in alphabetical order):
+Los miembros del comité son (en orden alfabético):
 * Doris Barboni (CEREGE, France)
 * Jennifer Bates (Seoul National University, South Korea) 
 * Abraham Dabengwa (University of the Witwatersrand, South Africa)
@@ -28,20 +28,20 @@ The committee members are (in alphabetical order):
 * Maria Gabriela Musaubach (National University of Jujuy and Institute of Andean Ecoregions (CONICET-UNJu), Argentina)
 * Javier Ruiz-Pérez (Texas A&M University, USA)
 
-Open Science is an approach that aims to transform research by making it more reproducible, transparent, reusable, collaborative, accountable and accessible to society. Open Science emcompasses many different practices such as open data, open methods, open source software, open hardware, open access publishing, citizen science, open educational resources and equity, diversity and inclusion.
+Open Science es un enfoque que tiene como objetivo transformar la investigación haciéndola más reproducible, transparente, reutilizable, colaborativa, responsable y accesible para la sociedad. Open Science abarca muchas prácticas diferentes, como datos abiertos, métodos abiertos, software de código abierto, hardware abierto, publicación de acceso abierto, ciencia ciudadana, recursos educativos abiertos y equidad, diversidad e inclusión.
 
-This new committee therefore embraces these practices in its own work and strives to make everything that it does open and transparent to the phytolith community. We aim to engage with the phytolith community regularly from the very start and we encourage phytolith researchers to get involved in the training, seminars, discussions and working initiatives that we will be doing. 
+Por lo tanto, este nuevo comité adopta estas prácticas en su propio trabajo y se esfuerza por hacer que todo lo que hace sea abierto y transparente para la comunidad de fitolitos. Nuestro objetivo es involucrarnos con la comunidad de fitolitos regularmente desde el principio y alentamos a los investigadores de fitolitos a involucrarse en la capacitación, los seminarios, las discusiones y las iniciativas de trabajo que realizaremos.
 
-We will be using several different communication methods including the IPS blog and forum, Facebook (International Committee on Open Phytolith Science), Twitter (@open_phytoliths), Instagram (@open_phytoliths) and we will also establish a Slack workspace. 
+Usaremos varios métodos de comunicación diferentes, incluidos el blog y el foro de IPS, Facebook (Comité Internacional sobre Ciencia Abierta de Fitolitos), Twitter (@open_phytoliths), Instagram (@open_phytoliths) y también estableceremos un espacio de trabajo de Slack.
 
-We currently have one active project, the FAIR Phytolith project, that is working to improve data sharing by investigating existing phytolith data and drawing up guidelines for the implementation of the FAIR principles for existing and future phytolith data. You can watch an introductory talk about this project here. 
+Actualmente tenemos un proyecto activo, el proyecto FAIR Phytolith, que está trabajando para mejorar el intercambio de datos investigando los datos de fitolitos existentes y elaborando pautas para la implementación de los principios FAIR para los datos de fitolitos existentes y futuros. Puedes ver una charla introductoria sobre este proyecto aquí.
 
-We will also be helping with the special issue on Phytoliths in Asia for the journal Review of Palaeobotany and Palynology - more details can be found here. This will be the first of its kind to ask authors to comply with good open science practices for all of the submissions and we will offer guidelines about this best practice to assist authors. 
+También ayudaremos con el número especial sobre fitolitos en Asia para la revista Review of Palaeobotany and Palynology; se pueden encontrar más detalles aquí. Este será el primero de su tipo en pedir a los autores que cumplan con las buenas prácticas de ciencia abierta para todas las presentaciones y ofreceremos pautas sobre esta mejor práctica para ayudar a los autores.
 
-We will start to run community meet-ups in the new year that will include talks and training on different open science practices, so please look out for information about these events.
+Comenzaremos a realizar reuniones comunitarias en el nuevo año que incluirán charlas y capacitación sobre diferentes prácticas de ciencia abierta, así que busque información sobre estos eventos.
 
-We look forward to working with you all,
+Esperamos trabajar con todos ustedes,
 
-The International Committee for Open Phytolith Science
+El Comité Internacional para la Ciencia Abierta de Fitolitos
 
 Doris Barboni, Jennifer Bates, Abraham Dabengwa, Zachary C. Dunseth, Juan José García-Granero, Emma Karoune, Celine Kerfant, Carla Lancelotti, Marco Madella, Maria Gabriela Musaubach, Javier Ruiz-Pérez.

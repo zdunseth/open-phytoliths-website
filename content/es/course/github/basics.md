@@ -9,7 +9,7 @@ Familiarícese con la interfaz del navegador web Github, cree un nuevo repositor
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 2 hours
+{{< icon name="clock" pack="fas" >}} 2 horas
 
 ## Aprender
 

@@ -1,6 +1,6 @@
 ---
 title: El proyecto de fitolitos FAIR
-linkTitle: FAIR Phytoliths Project
+linkTitle: El proyecto de fitolitos FAIR
 summary: Proyecto para aumentar el conocimiento y la implementación de los principios de datos FAIR en la investigación de fitolitos.
 date: '2021-01-24'
 type: book

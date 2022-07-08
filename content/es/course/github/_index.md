@@ -45,12 +45,12 @@ El tercer curso cubre cómo habilitar y editar páginas de Github (sitios web), 
 
 ## Preguntas comunes
 
-{{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
+{{< spoiler text="¿Hay requisitos previos?" >}}
+No hay requisitos previos para el primer curso.
 {{< /spoiler >}}
 
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
+{{< spoiler text="¿Con qué frecuencia se ejecutan los cursos?" >}}
+Continuamente, a tu propio ritmo.
 {{< /spoiler >}}
 
-{{< cta cta_text="Begin the course" cta_link="basics" >}}
+{{< cta cta_text="Comenzar el curso" cta_link="basics" >}}

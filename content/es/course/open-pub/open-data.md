@@ -1,13 +1,13 @@
 ---
-title: Using Zenodo to publish data
+title: Usando Zenodo para publicar datos
 date: '2021-01-01'
 type: book
 weight: 20
 ---
 
-![zenodo guide](zenodo-guide.jpg "Uploading data to Zenodo guide")
+![guía de zenodo](zenodo-guide.jpg "Guía de subida de datos a Zenodo")
 
-{{% staticref "uploads/zen-guide.pdf" "newtab" %}}Download uploading data to Zenodo guide{{% /staticref %}}
+{{% staticref "uploads/zen-guide.pdf" "newtab" %}}Descargar guía de subida de datos a Zenodo{{% /staticref %}}
 
 ### Please cite this guide as:
 

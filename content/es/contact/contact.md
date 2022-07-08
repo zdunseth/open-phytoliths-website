@@ -18,7 +18,7 @@ content:
   contact_links:
     - icon: comments
       icon_pack: fas
-      name: Join our slack workspace
+      name: Rejoignez notre espace de travail slack
       link: 'https://join.slack.com/t/openphytoliths/shared_invite/zt-1akxgco84-cz4Dii0Q5gXeb9J49UgYoQ'
 
   # Automatically link email and phone or display as text?
@@ -37,4 +37,4 @@ design:
   columns: '1'
 ---
 
-If you have any comments, feedback or just want to connect with us, please fill in the form below. 
+Si vous avez des commentaires, des commentaires ou si vous souhaitez simplement nous contacter, veuillez remplir le formulaire ci-dessous. 

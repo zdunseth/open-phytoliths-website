@@ -1,5 +1,5 @@
 ---
-title: 📚 Courses
+title: 📚 Projects
 type: page
 tags:
   - preface
@@ -11,4 +11,4 @@ banner:
   image: ''
 ---
 
-Explore our courses below and expand your knowledge!
+Explore the projects we are currently undertaking and see how you can join in!

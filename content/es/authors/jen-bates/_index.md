@@ -65,6 +65,7 @@ user_groups:
   - icops  
 ---
 
-Jennifer Bates is Assistant Professor of Archaeological Science at the Department of Archaeology and Art History, Seoul National University, Korea. She works on archaeobotany, specialising in South Asian pre and proto history, and her labs, SNU Archaeological Science Lab and SNU Archaeobotany Lab, are open for analysis across a range of materials. 
+Jennifer Bates es profesora adjunta de Ciencias Arqueológicas en el Departamento de Arqueología e Historia del Arte de la Universidad Nacional de Seúl, Corea. Trabaja en arqueobotánica, especializándose en la pre y protohistoria del sur de Asia, y sus laboratorios, SNU Archaeological Science Lab y SNU Archaeobotany Lab, están abiertos al análisis de una variedad de materiales.
 
-Jennifer has several projects at present; she is currently investigating how the ashmounds of the Southern Indian Neolithic were formed, is looking at foodways in several pre- and proto-historic regions of South Asia, exploring the complex pathways of early rice use in the Ganges, and is one of the co-ordinators of the Big Data project Land Cover 6k, with a special focus on South Asia and Korea. 
+Jennifer tiene varios proyectos en la actualidad; actualmente está investigando cómo se formaron los montículos de ceniza del Neolítico del sur de la India, está analizando las formas de alimentación en varias regiones prehistóricas y protohistóricas del sur de Asia, explorando las complejas vías del uso temprano del arroz en el Ganges, y es una de las co - coordinadores del proyecto Big Data Land Cover 6k, con especial foco en el Sur de Asia y Corea.
+

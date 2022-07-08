@@ -9,7 +9,7 @@ Descubra cuáles son los principios de datos FAIR y por qué son importantes par
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 30 minutes
+{{< icon name="clock" pack="fas" >}} 30 minutos
 
 ## Aprender
 

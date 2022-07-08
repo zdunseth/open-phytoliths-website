@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Contact
+title: Contacto
 subtitle:
 
 content:
@@ -18,7 +18,7 @@ content:
   contact_links:
     - icon: comments
       icon_pack: fas
-      name: Rejoignez notre espace de travail slack
+      name: Únase a nuestro espacio de trabajo holgado
       link: 'https://join.slack.com/t/openphytoliths/shared_invite/zt-1akxgco84-cz4Dii0Q5gXeb9J49UgYoQ'
 
   # Automatically link email and phone or display as text?
@@ -37,4 +37,4 @@ design:
   columns: '1'
 ---
 
-Si vous avez des commentaires, des commentaires ou si vous souhaitez simplement nous contacter, veuillez remplir le formulaire ci-dessous. 
+Si tiene algún comentario, comentario o simplemente desea conectarse con nosotros, complete el formulario a continuación.

@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Open Phytoliths Community
+title: Comunidad abierta de fitolitos
 hero_media: 
 design:
   background:
@@ -20,7 +20,7 @@ design:
     text_color_light: true
 cta:
   url: '#courses'
-  label: Explore our projects
+  label: Explora nuestros proyectos
   icon_pack: fas
   icon: seedling
 cta_alt:
@@ -33,8 +33,7 @@ advanced:
 ---
 
 <br>
+Construyendo una visión compartida para la adopción e implementación de la ciencia abierta entre los investigadores de fitolitos a nivel mundial. 
 
-Building a shared vision for open science adoption and implementation among phytolith researchers globally. 
-
-<a class="github-button" href="https://github.com/open-phytoliths" data-icon="octicon-star" data-size="large" aria-label="Visit our GitHub organisation page">Visit our GitHub organisation page</a><br>
-<a class="github-button" href="https://twitter.com/open_phytoliths" data-icon="octicon-star" data-size="large" aria-label="Follow us on Twitter">Follow us on Twitter</a></script>
+<a class="github-button" href="https://github.com/open-phytoliths" data-icon="octicon-star" data-size="large" aria-label="Visite nuestra página de organización de GitHub">Visit our GitHub organisation page</a><br>
+<a class="github-button" href="https://twitter.com/open_phytoliths" data-icon="octicon-star" data-size="large" aria-label="Síganos en Twitter">Follow us on Twitter</a></script>

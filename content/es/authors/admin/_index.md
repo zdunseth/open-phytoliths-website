@@ -74,7 +74,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interesado en todo lo relacionado con la ciencia abierta y los fitolitos.
+bio: Interested in everything open science and phytoliths.
 
 interests:
   - Open research
@@ -122,10 +122,10 @@ user_groups:
   - icops
 ---
 
-Emma es especialista en Arqueobotánica con un doctorado del Instituto de Arqueología, University College London, y es la Investigadora Principal del Proyecto FAIR Phytoliths con sede en la Inglaterra Histórica que trabaja con colegas de la Universitat Pompeu Fabra. el Consejo Superior de Investigaciones Científicas de España y la Universidad Texas A&M, financiado por EOSC Life. También participa en un proyecto para desarrollar el uso de la investigación de fitolitos en la arqueología británica mediante el desarrollo de una colección de referencia amplia y abierta. Emma escribe un blog llamado The Open Archaeobotanist y regularmente da charlas sobre su trabajo arqueológico abierto.
+Emma is a specialist in Archaeobotany with a PhD from the Institute of Archaeology, University College London, and she is the Principal Investigator on the FAIR Phytoliths Project based at Historic England working with colleagues from Universitat Pompeu Fabra. the Spanish National Research Council and Texas A&M University, funded by EOSC Life. She is also involved in a project to develop the use of phytolith research in British archaeology by developing a comprehensive and open reference collection. Emma writes a blog called The Open Archaeobotanist and regularly gives talks about her open archaeological work.
 
-Emma también trabaja como administradora de la comunidad sénior para Turing RSS Health Data Lab y el proyecto DECOVID en The Alan Turing Institute. Es una colaboradora principal de *The Turing Way* (una guía de código abierto dirigida por la comunidad para la investigación reproducible) y miembro del comité de planificación de Bookdash, que ayuda a crear recursos y capacitación para otros investigadores.
+Emma also works as a Senior Community Manager for the Turing RSS Health Data Lab and the DECOVID project at The Alan Turing Institute. She is a core contributor to *The Turing Way* (an open-source community-led guide to reproducible research), and a member of the Bookdash planning committee, helping to build resources and training for other researchers. 
 
-Emma es miembro del Software Sustainability Institute y se enfoca en promover una cultura de investigación más accesible e inclusiva. También está trabajando con Elixir-UK como becaria de capacitación en administración de datos FAIR para desarrollar recursos de capacitación para la gestión de datos FAIR. Emma trabaja en estrecha colaboración con el Programa Abierto de Ciencias de la Vida como mentora y experta.
+Emma is a Software Sustainability Institute Fellow focusing on promoting a more accessible and inclusive research culture. She is also working with Elixir-UK as a FAIR Data Stewardship Training Fellow to develop training resources for FAIR data management.  Emma works closely with the Open Life Science Programme as a mentor and expert. 
 
-Toda su investigación y desarrollo comunitario adopta un enfoque de becas abiertas en el que se esfuerza por desarrollar prácticas de investigación más abiertas y sostenibles dentro de su disciplina y más allá.
+All of her research and community building embraces an Open Scholarship approach in which she is striving to develop more open and sustainable research practices within her discipline and beyond.

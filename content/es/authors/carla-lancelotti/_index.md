@@ -64,8 +64,8 @@ user_groups:
   - icops
 ---
 
-Me gradué en Arqueología en la Universidad de Bolonia y, tras un Máster en Ciencias Arqueológicas en la Universidad de Milán, obtuve mi doctorado en Arqueobotánica en la Universidad de Cambridge. Después de mi doctorado, mantuve varios contratos postdoctorales, incluido un contrato de cofinanciación de MSC en la Universitat Pompeu Fabra.
+I graduated in Archaeology at the University of Bologna and, after a Master in Archaeological Science at the University of Milan, I obtained my PhD in Archaeobotany from the University of Cambridge. After my PhD I held several postdoctoral contracts, including a MSC cofund contract at Univeristat Pompeu Fabra. 
 
-En 2014 cofundé el grupo de investigación Cultura y Dinámicas Socioecológicas, reconocido por la Agencia Catalana de Gestión de Ayudas Universitarias y de Investigación (AGAUR) como grupo de excelencia. En 2017, recibí un proyecto de subvención de inicio del ERC para trabajar en el papel de los cultivos tolerantes a la sequía en la resiliencia a largo plazo y la adaptación a las tierras secas (RAINDROPS ERC-Stg-2017, 759800).
+In 2014 I co-funded the research group Culture and Socio-Ecological Dynamics, recognised by the Catalan Agency for Management of University and Research Grants (AGAUR) as an excellence group. In 2017 I was awarded a Starting grant project from the ERC to work on the role of drought-tolerant crops on the long-term resilience and adaptation to drylands (RAINDROPS ERC-Stg-2017, 759800). 
 
-Actualmente soy Director del Centro de Estudios sobre Bienestar Planetario de la UPF, miembro del Comité Institucional de Revisión Ética de Proyectos de la Universitat Pompeu Fabra (CIREP) y parte del Grupo de Expertos en Cambio Climático (GEC) del Ayuntamiento de Barcelona. También soy codirector del Proyecto FAIR Phytoliths.
+I am currently Director of UPF's Center of Studies on Planetary Wellebing, member of the Institutional Committe for Ethical Review of Projects at Univeristat Pompeu Fabra (CIREP) and part of the Group of Experts on Climate Change (GEC) for the Barcelona City Council. I am also co-leading of the FAIR Phytoliths Project. 

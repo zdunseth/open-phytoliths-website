@@ -5,6 +5,7 @@ type: book
 weight: 20
 ---
 
+![Open Phytolith Publishing Guidelines](open-pub-guide.jpg "Open Phytolith Publishing Guidelines on Zenodo")
 
 {{% staticref "uploads/Open-publishing-ICOPS-v1.pdf" "newtab" %}}Download Open Publishing Guide{{% /staticref %}}
 

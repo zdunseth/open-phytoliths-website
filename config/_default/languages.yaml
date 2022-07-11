@@ -7,7 +7,7 @@ en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
-  title: ICOPS
+  title: Open Phytoliths
   weight: 1
   params:
     description: International Committee on Open Phytolith Science - Community building and training initiative for the Phytolith Community.
@@ -15,14 +15,14 @@ fr:
   languageCode: fr
   weight: 2
   contentDir: content/fr
-  title: ICOPS
+  title: Open Phytoliths
   params:
     description: Comité international sur la science ouverte dans le phytolithe - Initiative de renforcement de la communauté et de formation pour la communauté Phytolith.
 es:
   languageCode: es
   weight: 3
   contentDir: content/es
-  title: ICOPS
+  title: Open Phytoliths
   params:
     description: Comité Internacional de Ciencia Abierta en Fitolitos - Iniciativa de construcción comunitaria y capacitación para la comunidad Phytolith.
 

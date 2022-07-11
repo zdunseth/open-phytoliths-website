@@ -36,5 +36,6 @@ advanced:
 
 Building a shared vision for open science adoption and implementation among phytolith researchers globally. 
 
-<a class="github-button" href="https://github.com/open-phytoliths" data-icon="octicon-star" data-size="large" aria-label="Visit our GitHub organisation page">Visit our GitHub organisation page</a><br>
-<a class="github-button" href="https://twitter.com/open_phytoliths" data-icon="octicon-star" data-size="large" aria-label="Follow us on Twitter">Follow us on Twitter</a></script>
+<a class="github-button" href="https://github.com/open-phytoliths" aria-label="Visit our GitHub organisation page">Visit our GitHub organisation page</a>
+<br>
+<a href="https://twitter.com/open_phytoliths?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @open_phytoliths</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} ICOPS. This work is licensed under {license}'
+    notice: '© {year} Open Phytoliths. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -80,7 +80,7 @@ features:
     commento:
       url: ''
   search:
-    provider: ICOPS
+    provider: Open Phytoliths
     algolia:
       app_id: ''
       api_key: ''

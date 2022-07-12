@@ -2,7 +2,7 @@
 widget: portfolio
 headless: true
 weight: 30
-title: Our projects
+title: Nos projets
 subtitle:
 content:
   filters:
@@ -16,11 +16,11 @@ content:
   filter_default: 0
 
   filter_button:
-    - name: All Projects
+    - name: Tous nos projets
       tag: '*'
-    - name: Previous
+    - name: Précédemment
       tag: previous
-    - name: Current
+    - name: En cours
       tag: current
 design:
   columns: '1'

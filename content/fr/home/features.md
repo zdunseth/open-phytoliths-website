@@ -8,15 +8,16 @@ feature:
   - icon: seedling
     icon_pack: fas
     name: ICOPS
-    description: The International Committee on Open Phytolith Science (ICOPS) has been created within the [International Phytolith Society](https://phytoliths.org/) to work on increasing the knowledge of and implementation of open science practices in phytolith research. 
+    description: Le Comité international sur la science ouverte des phytolithes (ICOPS) a été créé au sein de la [Société internationale des phytolithes] (https://phytoliths.org/) afin d'améliorer la connaissance et la mise en œuvre des pratiques de science ouverte dans la recherche sur les phytolithes.  
   - icon: rocket
     icon_pack: fas
-    name: Our Mission
-    description: 
+    name: Notre mission
+    description: Nous nous efforçons de rendre la recherche sur les phytolithes plus ouverte, reproductible et équitable ! 
   - icon: globe
     icon_pack: fas
-    name: Our Community
-    description: 
+    name: Notre communauté
+    description: Nous sommes une communauté mondiale de chercheurs issus de multiples disciplines telles que l'archéologie, la paléoécologie, la paléontologie et les sciences végétales.
+ 
 ---
 La communauté Open Phytoliths a été initiée par le Comité international sur la science ouverte des phytolithes (ICOPS).
  

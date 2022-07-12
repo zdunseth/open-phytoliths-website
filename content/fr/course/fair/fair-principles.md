@@ -1,11 +1,11 @@
 ---
-title: FAIR principles
+title: Les principes FAIR 
 date: '2021-01-01'
 type: book
 weight: 20
 ---
 
-Find out about what the FAIR data principles are and why they are important for phytolith research.
+Découvrez les principes FAIR et pourquoi ils sont importants pour la recherche sur les phytolithes.
 
 <!--more-->
 

@@ -2,7 +2,7 @@
 widget: featurette
 headless: true
 weight: 20
-title: About Open Phytoliths Community
+title: À propos de la  communauté Open Phytoliths
 subtitle: 
 feature:
   - icon: seedling

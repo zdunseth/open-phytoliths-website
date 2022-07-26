@@ -1,5 +1,5 @@
 ---
-title: First Meeting of the International Committee on Open Phytolith Science
+title: Première réunion du Comité international sur la science ouverte des phytolithes 
 date: 2021-12-03
 thumbnail-img: meeting1.jpg
 ---
@@ -11,37 +11,37 @@ thumbnail-img: meeting1.jpg
 
 ![first meeting photo](meeting1.jpg "Our first ICOPS meeting")
 
-The International Committee on Open Phytolith Science (ICOPS) has been created within the International Phytolith Society to work on increasing the knowledge of and implementation of open science practices in phytolith research. 
+Le Comité international sur la science ouverte du phytolithe (ICOPS) a été créé au sein de la Société internationale du phytolithe afin de faire progresser la connaissance et la mise en œuvre des pratiques de science ouverte dans la recherche sur les phytolithes. 
 
-The first committee meeting took place on 3rd December 2021. We have 11 committee members who come from all over the world. 
+La première réunion du comité a eu lieu le 3 décembre 2021. Nous nous composons de 11 membres et provenons du monde entier. 
 
-The committee members are (in alphabetical order):
+Voici les membres du comité (par ordre alphabétique):
 * Doris Barboni (CEREGE, France)
-* Jennifer Bates (Seoul National University, South Korea) 
-* Abraham Dabengwa (University of the Witwatersrand, South Africa)
-* Zach Dunseth (Brown University, USA)
-* Juan José García-Granero (Spanish National Research Council, Spain) 
-* Emma Karoune (Chair, The Alan Turing Institute, UK)
-* Celine Kerfant (Universitat Pompeu Fabra, Spain)
-* Carla Lancelotti (Universitat Pompeu Fabra, Spain)
-* Marco Madella (Universitat Pompeu Fabra, Spain)
-* Maria Gabriela Musaubach (National University of Jujuy and Institute of Andean Ecoregions (CONICET-UNJu), Argentina)
-* Javier Ruiz-Pérez (Texas A&M University, USA)
+* Jennifer Bates (Seoul National University, Corée du Sud) 
+* Abraham Dabengwa (University of the Witwatersrand, Afrique du Sud)
+* Zach Dunseth (Brown University, États-Unis d'Amérique)
+* Juan José García-Granero (Spanish National Research Council, Espagne) 
+* Emma Karoune (Chair, The Alan Turing Institute, Royaume-Uni)
+* Celine Kerfant (Universitat Pompeu Fabra, Espagne)
+* Carla Lancelotti (Universitat Pompeu Fabra, Espagne)
+* Marco Madella (Universitat Pompeu Fabra, Espagne)
+* Maria Gabriela Musaubach (National University of Jujuy and Institute of Andean Ecoregions (CONICET-UNJu), Argentine)
+* Javier Ruiz-Pérez (Texas A&M University, États-Unis d'Amérique)
 
-Open Science is an approach that aims to transform research by making it more reproducible, transparent, reusable, collaborative, accountable and accessible to society. Open Science emcompasses many different practices such as open data, open methods, open source software, open hardware, open access publishing, citizen science, open educational resources and equity, diversity and inclusion.
+La science ouverte est une approche qui vise à transformer la recherche en la rendant plus reproductible, transparente, réutilisable, collaborative, responsable et accessible à la société. La science ouverte englobe de nombreuses différentes pratiques  telles que les données ouvertes, les méthodes ouvertes, les logiciels libres, les composants matériels et  l'architecture informatique ouverte, la publication en libre accès, la science citoyenne, les ressources éducatives ouvertes, l'équité, la diversité et l'inclusion.
 
-This new committee therefore embraces these practices in its own work and strives to make everything that it does open and transparent to the phytolith community. We aim to engage with the phytolith community regularly from the very start and we encourage phytolith researchers to get involved in the training, seminars, discussions and working initiatives that we will be doing. 
+Ce nouveau comité adopte donc ces pratiques dans son propre travail et s'efforce de rendre tout ce qu'il fait ouvert et transparent pour la communauté de recherche sur les phytolithes. Nous souhaitons nous engager avec cette communauté des phytolithes  et nous encourageons les chercheurs en phytolithes à s'impliquer dans les formations, séminaires, discussions et initiatives de travail que nous mettrons en place. 
 
-We will be using several different communication methods including the IPS blog and forum, Facebook (International Committee on Open Phytolith Science), Twitter (@open_phytoliths), Instagram (@open_phytoliths) and we will also establish a Slack workspace. 
+Nous utilisons plusieurs méthodes de communication comme le blog et le forum de l'IPS, Facebook (International Committee on Open Phytolith Science), Twitter (@open_phytoliths), Instagram (@open_phytoliths) et nous allons également créer un espace de travail Slack. 
 
-We currently have one active project, the FAIR Phytolith project, that is working to improve data sharing by investigating existing phytolith data and drawing up guidelines for the implementation of the FAIR principles for existing and future phytolith data. You can watch an introductory talk about this project here. 
+Nous avons actuellement un projet actif, le projet FAIR Phytolith, qui vise à améliorer le partage des données en étudiant les données existantes portant sur les phytolithes  et en élaborant des lignes directrices pour la mise en œuvre des principes FAIR pour les données existantes et futures. Vous trouverez ici un exposé sur ce projet.   
 
-We will also be helping with the special issue on Phytoliths in Asia for the journal Review of Palaeobotany and Palynology - more details can be found here. This will be the first of its kind to ask authors to comply with good open science practices for all of the submissions and we will offer guidelines about this best practice to assist authors. 
+Nous participons également à la rédaction d'un numéro spécial sur les phytolithes en Asie pour la revue Review of Palaeobotany and Palynology - vous trouverez plus de détails ici. Ce numéro sera le premier du genre à demander aux auteurs de se conformer aux  pratiques de la science ouverte pour toutes les soumissions et nous proposons des directives pour aider les auteurs.
+ 
+Nous allons organiser des rencontres communautaires au cours de la nouvelle année, qui comprendront des exposés et des formations sur les différentes pratiques de la science ouverte, alors ne manquez pas les annonces de ces événements.
 
-We will start to run community meet-ups in the new year that will include talks and training on different open science practices, so please look out for information about these events.
+Nous sommes heureux de travailler avec vous tous !
 
-We look forward to working with you all,
-
-The International Committee for Open Phytolith Science
+Le Comité international sur la science ouverte du phytolithe 
 
 Doris Barboni, Jennifer Bates, Abraham Dabengwa, Zachary C. Dunseth, Juan José García-Granero, Emma Karoune, Celine Kerfant, Carla Lancelotti, Marco Madella, Maria Gabriela Musaubach, Javier Ruiz-Pérez.

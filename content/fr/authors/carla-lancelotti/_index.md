@@ -20,14 +20,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Enseignant-chercheur ICREA et Directrice du Centre d'études sur le bien-être planétaire
 
-Intérêts :
+intérêts :
   - La recherche ouverte
   - Phytolithes
   - Agriculture en zone sèche
   - Millets
   - La physiologie des plantes
 
-Formation:
+formation:
     - Doctorat en archéobotanique
       institution: Université de Cambridge (Royaume-Uni)
       année: 2010
@@ -63,7 +63,7 @@ user_groups:
   - icops
 ---
 
-Je suis diplômé en archéologie de l'université de Bologne et, après un master en sciences archéologiques réalisé à l'université de Milan, j'ai obtenu mon doctorat en archéobotanique à l'université de Cambridge. Après mon doctorat, j'ai effectué plusieurs contrats postdoctoraux, dont un cofinancé par le MSC à l'Univeristat Pompeu Fabra. 
+Je suis diplômée en archéologie de l'université de Bologne et, après un master en sciences archéologiques réalisé à l'université de Milan, j'ai obtenu mon doctorat en archéobotanique à l'université de Cambridge. Après mon doctorat, j'ai effectué plusieurs contrats postdoctoraux, dont un cofinancé par le MSC à l'Univeristat Pompeu Fabra. 
 
 En 2014, j'ai cofinancé le groupe de recherche Culture et dynamiques socio-écologiques, reconnu comme un groupe d'excellence par l'Agence catalane pour la gestion des subventions universitaires et de recherche (AGAUR).  En 2017, j'ai obtenu un projet Starting grant de l'ERC pour travailler sur le rôle des cultures tolérantes à la sécheresse, sur la résilience et l'adaptation à long terme des zones sèches (RAINDROPS ERC-Stg-2017, 759800). 
 

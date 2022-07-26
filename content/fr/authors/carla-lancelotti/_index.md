@@ -10,34 +10,33 @@ authors:
 superuser: false
 
 # Role/position
-role: ICOPS member, ICREA Research Professor
+role: Membre de l'ICOPS, Enseignant-chercheur ICREA
 
 # Organizations/Affiliations
 organizations:
-  - name: Universitat Pompeu Fabra and ICREA
+  - name: Université Pompeu Fabra et ICREA
     url: 'https://www.icrea.cat/Web/ScientificStaff/carla-lancelotti-353040'
 
 # Short bio (displayed in user profile at end of posts)
-bio: ICREA Research Professor and Director of the Center for Studies on Planetary Wellbeing
+bio: Enseignant-chercheur ICREA et Directrice du Centre d'études sur le bien-être planétaire
 
-interests:
-  - Open Research
-  - Phytoliths
-  - Dryland agriculture
+Intérêts :
+  - La recherche ouverte
+  - Phytolithes
+  - Agriculture en zone sèche
   - Millets
-  - Plant physiology
+  - La physiologie des plantes
 
-education:
-  courses:
-    - course: PhD in Archaobotany
-      institution:  University of Cambridge (UK)
-      year: 2010
-    - course: MSc in Archaeological Sciences
-      institution: University of Milan (Italy)
-      year: 2006
-    - course: BSc in Archeaology
-      institution: University of Bologna (Italy)
-      year: 2004
+Formation:
+    - Doctorat en archéobotanique
+      institution: Université de Cambridge (Royaume-Uni)
+      année: 2010
+    - Maîtrise en sciences archéologiques
+      institution: Université de Milan (Italie)
+      année: 2006
+    - course: Licence en archéologie
+      institution: Université de Bologne (Italie)
+      année: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,8 +63,8 @@ user_groups:
   - icops
 ---
 
-I graduated in Archaeology at the University of Bologna and, after a Master in Archaeological Science at the University of Milan, I obtained my PhD in Archaeobotany from the University of Cambridge. After my PhD I held several postdoctoral contracts, including a MSC cofund contract at Univeristat Pompeu Fabra. 
+Je suis diplômé en archéologie de l'université de Bologne et, après un master en sciences archéologiques réalisé à l'université de Milan, j'ai obtenu mon doctorat en archéobotanique à l'université de Cambridge. Après mon doctorat, j'ai effectué plusieurs contrats postdoctoraux, dont un cofinancé par le MSC à l'Univeristat Pompeu Fabra. 
 
-In 2014 I co-funded the research group Culture and Socio-Ecological Dynamics, recognised by the Catalan Agency for Management of University and Research Grants (AGAUR) as an excellence group. In 2017 I was awarded a Starting grant project from the ERC to work on the role of drought-tolerant crops on the long-term resilience and adaptation to drylands (RAINDROPS ERC-Stg-2017, 759800). 
+En 2014, j'ai cofinancé le groupe de recherche Culture et dynamiques socio-écologiques, reconnu comme un groupe d'excellence par l'Agence catalane pour la gestion des subventions universitaires et de recherche (AGAUR).  En 2017, j'ai obtenu un projet Starting grant de l'ERC pour travailler sur le rôle des cultures tolérantes à la sécheresse, sur la résilience et l'adaptation à long terme des zones sèches (RAINDROPS ERC-Stg-2017, 759800). 
 
-I am currently Director of UPF's Center of Studies on Planetary Wellebing, member of the Institutional Committe for Ethical Review of Projects at Univeristat Pompeu Fabra (CIREP) and part of the Group of Experts on Climate Change (GEC) for the Barcelona City Council. I am also co-leading of the FAIR Phytoliths Project. 
+Je suis actuellement directrice du  Centre d'études sur le bien-être planétaire de l'UPF, membre du Comité institutionnel pour la révision éthique des projets à l'Université Pompeu Fabra (CIREP) et membre du Groupe d'experts sur le changement climatique (GEC) pour le Conseil municipal de Barcelone. Je suis également codirectrice du projet FAIR Phytoliths. 

@@ -7,8 +7,8 @@ date: 2022-04-22
 
 <!--more-->
 
-As part of the first initiative of ICOPS, we will be running training in different aspects of open research practices. 
+La première initiative de l'ICOPS consistera à organiser des formations sur différents aspects pratiques de la recherche ouverte.
 
-This has started with Github training and over the last few month we have run three sessions: Github basics, Collaboration with Github and Further uses of Github.
+Cela a débuté avec la formation sur l'utilisation de Github, au cours des derniers mois, nous avons organisé trois sessions : Débuter avec Github, travailler en collaboration avec Github et utiliser Github à d'autres fins.
 
-You can find the resources in [our Github repository here](https://github.com/open-phytoliths/ICOPS-training-2022) and we also have a YouTube channel that contains videos of these workshops. [Here is a link to our YouTube channel.](https://www.youtube.com/channel/UCukf5wnApLug8bIZMJAhxOw)
+Vous pouvez trouver les ressources dans [notre dépôt Github ici] (https://github.com/open-phytoliths/ICOPS-training-2022) et nous avons également une chaîne YouTube qui propose des vidéos de ces cours. [Voici un lien vers notre chaîne YouTube] (https://www.youtube.com/channel/UCukf5wnApLug8bIZMJAhxOw).

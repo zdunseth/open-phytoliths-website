@@ -20,18 +20,19 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Enseignant-chercheur ICREA et Directrice du Centre d'études sur le bien-être planétaire
 
-intérêts :
+interests:
   - La recherche ouverte
   - Phytolithes
   - Agriculture en zone sèche
   - Millets
   - La physiologie des plantes
 
-formation:
-    - Doctorat en archéobotanique
+education:
+  courses:
+    - course: Doctorat en archéobotanique
       institution: Université de Cambridge (Royaume-Uni)
       année: 2010
-    - Maîtrise en sciences archéologiques
+    - course: Maîtrise en sciences archéologiques
       institution: Université de Milan (Italie)
       année: 2006
     - course: Licence en archéologie

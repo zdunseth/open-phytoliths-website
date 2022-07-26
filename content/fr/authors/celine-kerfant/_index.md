@@ -10,33 +10,32 @@ authors:
 superuser: false
 
 # Role/position
-role: ICOPS member, Research Associate
+role: Membre de l'ICOPS member, Chercheur associé
 
 # Organizations/Affiliations
 organizations:
-  - name: University Pompeu Fabra
+  - name: Université Pompeu Fabra
     url: 'https://www.upf.edu/web/humanitats/entry/-/-/200973/adscripcion/c%C3%A9line-emmanuelle-kerfant'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an archaeobotanist who is focusing on tropical past plant-based technology (covering periods as far back as prehistory)  through the study of plant anatomy, phytolith and ethnobotany.  I am currently working as a research assistant in the FAIR Phytoliths Project.
+bio: Je suis une archéobotaniste travaillant sur la technologie végétale des plantes tropicales (couvrant des périodes aussi lointaines que la préhistoire) à travers l'étude de l'anatomie végétale, des phytolithes et de l'ethnobotanique.  Je travaille actuellement en tant qu'assistante de recherche dans le cadre du projet FAIR Phytoliths.
 
-interests:
-  - Open Research
-  - Phytoliths
-  - Comparative anatomy
-  - Plant past technology
-
-education:
-  courses:
-    - course: PhD in Quaternary and Prehistory
-      institution:  Rovira i Virgili University
-      year: 2020
-    - course: MSc in Quaternary and Prehistory
+intérêts :
+  - La recherche ouverte
+  - Phytolithes
+  - L'anatomie comparée
+  - Technologie végétale du passé
+  
+formation:
+    - Doctorat en Quaternaire et Préhistoire
+      institution: Université Rovira i Virgili 
+      année: 2020
+    - Maîtrise en sciences du Quaternaire et de la Préhistoire
       institution: National Museum of Natural History
-      year: 2015
-    - course: BA in History of Art and Archeology  
-      institution: Paris 1-Panthéon-Sorbonne University
-      year: 2000
+      année:  2015
+    - course: Licence en histoire de l'art et archéologie  
+      institution: Université Paris 1-Panthéon-Sorbonne
+      année:  2000
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -63,6 +62,4 @@ user_groups:
   - icops
 ---
 
-I am an archaeobotanist who is focusing on tropical past plant-based technology (covering periods as far back as prehistory) 
-through the study of plant anatomy, phytolith and ethnobotany.  
-I am currently working as a research associate in the FAIR Phytoliths Project.
+

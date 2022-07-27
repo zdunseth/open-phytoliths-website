@@ -18,14 +18,14 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Zach is an archaeologist and geoarchaeologist interested in how people lived in ancient desert landscapes. 
+bio: Zach est archéologue et géoarchéologue, il est spécialiste de la vie des populations dans les contextes désertiques anciens. 
 
 interests:
-  - Open Research
-  - Phytoliths
-  - Geoarchaeology
-  - Desert archaeology
-  - Dung studies
+  - La recherche ouverte
+  - Phytolithes
+  - Géoarchéologie
+  - L'archéologie des déserts
+  - Études des fumiers
 
 education:
   courses:
@@ -63,6 +63,9 @@ user_groups:
   - icops
   
 ---
+Zach est archéologue et géoarchéologue, il est spécialiste de la vie des populations dans les contextes désertiques anciens. 
 
-Zach is an archaeologist and geoarchaeologist interested in how people lived in ancient desert landscapes. He has a PhD in Archaeology from Tel Aviv University, and is currently a research associate at Brown University, and a teaching fellow at Babson College. His research has focused mainly on archaeological dung, and in particular the wondrous things dung can tell us about the ancient world. 
+Titulaire d'un doctorat en archéologie de l'université de Tel Aviv, il est actuellement chercheur associé à l'université de Brown et est chargé de cours au Babson College. 
+
+Ses recherches se concentrent principalement sur les excréments archéologiques, et plus précisément sur les remarquables apports que les excréments peuvent nous livrer sur le monde ancien. 
 

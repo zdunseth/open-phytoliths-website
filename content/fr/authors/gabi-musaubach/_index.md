@@ -18,15 +18,15 @@ organizations:
     url: 'https://www.conicet.gov.ar/new_scp/detalle.php?id=28034&keywords=MUSAUBACH%2BMARIA%2BGABRIELA&datos_academicos=yes'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am archaeobotanist. Most of my work has focused on ancient starch research and phytoliths analysis in dental calculus, food residues and sediments in pre-Hispanic archaeological sites in Argentina. My current project is Archaeobotanical contributions to the Culinary Cultural Heritage study in Quebrada de Humahuaca (Jujuy, Argentina).
+bio: Je suis archéobotaniste. La plupart de mes travaux porte sur la recherche d'amidon ancien et l'analyse des phytolithes dans le tartre dentaire, les résidus alimentaires et les sédiments des sites archéologiques préhispaniques en Argentine. Mon projet actuel s'intitule Contributions archéobotaniques à l'étude du patrimoine culturel culinaire à Quebrada de Humahuaca (Jujuy, Argentine).
 
 interests:
-  - Open Research
-  - Phytoliths
-  - Ancient starch
-  - Andean Crop
-  - Foodways
-  - Culinary Heritage
+  - La recherche ouverte
+  - Phytolithes
+  - Amidon ancient 
+  - Cultures vivrières des Andes
+  - Alimentation
+  - Patrimoine culinaire
 
 education:
   courses:
@@ -62,6 +62,6 @@ user_groups:
   
 ---
 
-I am archaeobotanist. Most of my work has focused on ancient starch research and phytoliths analysis in dental calculus, food residues and sediments in pre-Hispanic archaeological sites in Argentina. 
+Je suis archéobotaniste. La plupart de mes travaux porte sur la recherche d'amidon ancien et l'analyse des phytolithes dans le tartre dentaire, les résidus alimentaires et les sédiments des sites archéologiques préhispaniques en Argentine. 
 
-My current project is Archaeobotanical contributions to the Culinary Cultural Heritage study in Quebrada de Humahuaca (Jujuy, Argentina)
+Mon projet actuel s'intitule Contributions archéobotaniques à l'étude du patrimoine culturel culinaire à Quebrada de Humahuaca (Jujuy, Argentine).

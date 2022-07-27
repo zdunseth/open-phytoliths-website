@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Membre de l'ICOPS, Enseignant-chercheur ICREA
+role: ICOPS member, ICREA Research Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Université Pompeu Fabra et ICREA
+  - name: Universitat Pompeu Fabra and ICREA
     url: 'https://www.icrea.cat/Web/ScientificStaff/carla-lancelotti-353040'
 
 # Short bio (displayed in user profile at end of posts)

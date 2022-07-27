@@ -21,13 +21,13 @@ organizations:
 bio: 
 
 interests:
-  - Open Research
-  - Phytoliths
-  - Archaeobotany 
-  - Macrobotanical remains 
-  - South Asia 
-  - Food
-  - Land use 
+  - La recherche ouverte
+  - Phytolithes
+  - Archéobotanique
+  - Les restes macrobotaniques
+  - Asie du Sud
+  - Alimentaiion
+  - L'utilisation des territoires
   
 education:
   courses:
@@ -38,7 +38,7 @@ education:
       institution: University College London
       year: 2011
     - course: MA Hons in Archaeology and Anthropology
-      institution: University of Camridge
+      institution: University of Cambridge
       year: 2010
 
 # Social/Academic Networking
@@ -65,6 +65,7 @@ user_groups:
   - icops  
 ---
 
-Jennifer Bates is Assistant Professor of Archaeological Science at the Department of Archaeology and Art History, Seoul National University, Korea. She works on archaeobotany, specialising in South Asian pre and proto history, and her labs, SNU Archaeological Science Lab and SNU Archaeobotany Lab, are open for analysis across a range of materials. 
+Jennifer Bates est professeur adjoint des sciences archéologiques au département d'archéologie et d'histoire de l'art de l'université nationale de Séoul, Corée. Elle est archéobotaniste, spécialiste de la pré et proto histoire de l'Asie du Sud. Ses laboratoires, SNU Archaeological Science Lab et SNU Archaeobotany Lab, permettent l'analyse de matériel archéologique divers.
 
-Jennifer has several projects at present; she is currently investigating how the ashmounds of the Southern Indian Neolithic were formed, is looking at foodways in several pre- and proto-historic regions of South Asia, exploring the complex pathways of early rice use in the Ganges, and is one of the co-ordinators of the Big Data project Land Cover 6k, with a special focus on South Asia and Korea. 
+Jennifer a plusieurs projets en cours : elle étudie actuellement la formation des cendres du Néolithique du sud de l'Inde, examine les habitudes alimentaires dans plusieurs régions pré et protohistoriques d'Asie du Sud, explore les voies complexes des premières utilisations du riz dans le Gange, et est l'une des coordinatrices du projet Big Data Land Cover 6k, se concentrant en particulier sur l'Asie du Sud et la Corée. 
+

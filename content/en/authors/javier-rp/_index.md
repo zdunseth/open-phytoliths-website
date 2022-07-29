@@ -10,31 +10,34 @@ authors:
 superuser: false
 
 # Role/position
-role: ICOPS member
+role: ICOPS member, Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
-  - name: A&M University
+  - name: Department of Ecology and Conservation Biology, Texas A&M University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include phytoliths and open science.
+bio: Javier Ruiz-Pérez is an archaeologist-palaeoecologist and a phytolith specialist with field experience in Bolivia, Brazil, India and Spain.
 
 interests:
   - Open Research
   - Phytoliths
+  - Amazonian archaeology/palaeoecology
+  - Ancinet agricultural systems
+  - Fire ecology
 
 education:
   courses:
-    - course: PhD in 
-      institution:  University
-      year: 2012
-    - course: MEng in 
-      institution: University
-      year: 2009
-    - course: BSc in
-      institution: University
-      year: 2008
+    - course: PhD in History (Archaeobotany)
+      institution: Pompeu Fabra University
+      year: 2021
+    - course: MSc in Terrestrial Ecology 
+      institution: Autonomous University of Barcelona
+      year: 2015
+    - course: BA in History
+      institution: University of Barcelona
+      year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:javier.ruizperez.academic@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/J_Ruiz_Perez
@@ -61,4 +64,7 @@ user_groups:
   - icops
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Javier Ruiz-Pérez is an archaeologist-palaeoecologist and a phytolith specialist with field experience in Bolivia, Brazil, India and Spain. His research is mostly focused on tropical South America, where he investigates indigenous cultivation systems, the effects of past anthropogenic land use on landscape evolution, and, more recently, the millennial-scale role of fire in shaping forest-savannah mosaics.
+
+Currently, he is a postdoctoral research associate in the Department of Ecology and Conservation Biology at Texas A&M University (College Station, USA). His current work is on the long-term ecological relationship between fire, forests and savannahs in Chiquitania, Bolivia.
+

@@ -26,13 +26,13 @@ interests:
 
 education:
   courses:
-    - course: PhD in 
+   - course: PhD in 
       institution:  University
       year: 2012
-    - course: MEng in 
+   - course: MEng in 
       institution: University
       year: 2009
-    - course: BSc in
+   - course: BSc in
       institution: University
       year: 2008
 

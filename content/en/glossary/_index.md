@@ -44,15 +44,15 @@ header:
 
 * **Contributing guidelines**: Guidelines outlining how a person should go about contributing to an open source project.
 
-* **Creative commons**: A suite of standardized licences that allow copyright holders to grant some rights to users by default. CC licences are widely used, simple to use, machine readable, and have been created by legal experts. There are a variety of CC licences, each of which use one or more clauses. Some licences are compatible with Open Access in the Budapest sense (CC0 or those carrying the BY, SA, and ND clauses), and some are not (carrying the NC clause). 
+* **Creative Commons**: A suite of standardized licences that allow copyright holders to grant some rights to users by default. CC licences are widely used, simple to use, machine readable, and have been created by legal experts. There are a variety of CC licences, each of which use one or more clauses. Some licences are compatible with Open Access in the Budapest sense (CC0 or those carrying the BY, SA, and ND clauses), and some are not (carrying the NC clause). 
 
 ## D
 
-* **Data availability statement**: A data availability statement (also sometimes called a ‘data access statement’) tells the reader where the research data associated with a paper is available, and under what conditions the data can be accessed. They also include links using a DOI (where applicable) to the data set, code and other documentation.
+* **Data availability statement**: A data availability statement (also sometimes called a ‘data access statement’) tells the reader where the research data associated with a paper is available, and under what conditions the data can be accessed. They also include links using a DOI (where applicable) to the dataset, code and other documentation.
 
 * **Data paper**: A data paper is a peer reviewed document describing a dataset, published in a peer reviewed journal. It makes datasets more findable and accessible.
 
-* **Digital Object Identifier (DOI)**: A unique text string that is used to identify digital objects such as journal articles, data sets or open source software releases. A DOI is one type of Persistent Identifier (PID).
+* **Digital Object Identifier (DOI)**: A unique text string that is used to identify digital objects such as journal articles, datasets or open source software releases. A DOI is one type of Persistent Identifier (PID).
 
 ## E
 
@@ -130,7 +130,7 @@ header:
 ## P
 
 
-* **Paradata**: Paradata of a data set or survey are data about the process by which the data were collected.
+* **Paradata**: Paradata of a dataset or survey are data about the process by which the data were collected.
 
 * **Peer community in (PCI)**: PCI is a non-profit scientific organization that aims to create specific communities of researchers reviewing and recommending, for free, unpublished preprints in their field (i.e. unpublished articles deposited on open online archives like arXiv and bioRxiv1). 
 
